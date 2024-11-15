@@ -2,7 +2,7 @@
   {
     "key": "BioTexCom Clinic",
     "label": "BioTexCom Clinic",
-    "tag": "Tool",
+    "tag": "Punctualized Actor",
     "URL": null,
     "cluster": "0",
     "x": 1005.4277,
@@ -12,7 +12,7 @@
   {
     "key": "Medical Staff",
     "label": "Medical Staff",
-    "tag": "Tool",
+    "tag": "Punctualized Actor",
     "URL": null,
     "cluster": "0",
     "x": -1181.6024,
@@ -22,7 +22,7 @@
   {
     "key": "Legal and Compliance Team",
     "label": "Legal and Compliance Team",
-    "tag": "Tool",
+    "tag": "Punctualized Actor",
     "URL": null,
     "cluster": "0",
     "x": -464.87137,
@@ -32,7 +32,7 @@
   {
     "key": "Administrative Staff",
     "label": "Administrative Staff",
-    "tag": "Tool",
+    "tag": "Punctualized Actor",
     "URL": null,
     "cluster": "0",
     "x": 1996.1431,
@@ -42,7 +42,7 @@
   {
     "key": "Marketing and International Liaisons",
     "label": "Marketing and International Liaisons",
-    "tag": "Tool",
+    "tag": "Punctualized Actor",
     "URL": null,
     "cluster": "0",
     "x": 816.73065,
@@ -52,7 +52,7 @@
   {
     "key": "Limited Support Staff",
     "label": "Limited Support Staff",
-    "tag": "Tool",
+    "tag": "Punctualized Actor",
     "URL": null,
     "cluster": "0",
     "x": -1154.3015,
@@ -62,7 +62,7 @@
   {
     "key": "Surrogate Mothers",
     "label": "Surrogate Mothers",
-    "tag": "Field",
+    "tag": "Actor",
     "URL": null,
     "cluster": "1",
     "x": 1501.8763,
@@ -72,7 +72,7 @@
   {
     "key": "Economically Motivated Surrogates",
     "label": "Economically Motivated Surrogates",
-    "tag": "Field",
+    "tag": "Actor",
     "URL": null,
     "cluster": "1",
     "x": -381.48,
@@ -82,17 +82,17 @@
   {
     "key": "Conflict Resilient Surrogates",
     "label": "Conflict Resilient Surrogates",
-    "tag": "Field",
+    "tag": "Actor",
     "URL": null,
     "cluster": "1",
     "x": -2317.499,
     "y": -901.68,
-    "score": 30
+    "score": 75
   },
   {
     "key": "Experienced Surrogates",
     "label": "Experienced Surrogates",
-    "tag": "Field",
+    "tag": "Actor",
     "URL": null,
     "cluster": "1",
     "x": 164.97748,
@@ -102,7 +102,7 @@
   {
     "key": "First Time Surrogates",
     "label": "First Time Surrogates",
-    "tag": "Field",
+    "tag": "Actor",
     "URL": null,
     "cluster": "1",
     "x": -2819.935,
@@ -112,7 +112,7 @@
   {
     "key": "Non-Governmental Organizations",
     "label": "Non-Governmental Organizations",
-    "tag": "Field",
+    "tag": "Actor",
     "URL": null,
     "cluster": "2",
     "x": 386.92926,
@@ -122,7 +122,7 @@
   {
     "key": "La Strada Ukraine",
     "label": "La Strada Ukraine",
-    "tag": "Field",
+    "tag": "Actor",
     "URL": null,
     "cluster": "2",
     "x": -2099.7837,
@@ -132,7 +132,7 @@
   {
     "key": "Human Rights Watch",
     "label": "Human Rights Watch",
-    "tag": "Field",
+    "tag": "Actor",
     "URL": null,
     "cluster": "2",
     "x": 259.72052,
@@ -142,7 +142,7 @@
   {
     "key": "Stop Surrogacy Now",
     "label": "Stop Surrogacy Now",
-    "tag": "Field",
+    "tag": "Actor",
     "URL": null,
     "cluster": "2",
     "x": -3492.2205,
@@ -152,7 +152,7 @@
   {
     "key": "Tourism Agencies",
     "label": "Tourism Agencies",
-    "tag": "Tool",
+    "tag": "Punctualized Actor",
     "URL": null,
     "cluster": "3",
     "x": 1648.3378,
@@ -162,7 +162,7 @@
   {
     "key": "IVF Travel",
     "label": "IVF Travel",
-    "tag": "Tool",
+    "tag": "Punctualized Actor",
     "URL": null,
     "cluster": "3",
     "x": -1215.6309,
@@ -172,7 +172,7 @@
   {
     "key": "Tammuz Family",
     "label": "Tammuz Family",
-    "tag": "Tool",
+    "tag": "Punctualized Actor",
     "URL": null,
     "cluster": "4",
     "x": 875.7391,
@@ -182,7 +182,7 @@
   {
     "key": "Egg Donor & Surrogacy Institute",
     "label": "Egg Donor & Surrogacy Institute",
-    "tag": "Tool",
+    "tag": "Punctualized Actor",
     "URL": null,
     "cluster": "4",
     "x": -1893.5538,
@@ -192,7 +192,7 @@
   {
     "key": "Ukrainian Legal Frameworks",
     "label": "Ukrainian Legal Frameworks",
-    "tag": "Field",
+    "tag": "Intermediary Actant",
     "URL": null,
     "cluster": "4",
     "x": -707.4062,
@@ -202,7 +202,7 @@
   {
     "key": "Health Ministry Regulations",
     "label": "Health Ministry Regulations",
-    "tag": "Field",
+    "tag": "Intermediary Actant",
     "URL": null,
     "cluster": "4",
     "x": 2693.3027,
@@ -212,7 +212,7 @@
   {
     "key": "Family Law Code",
     "label": "Family Law Code",
-    "tag": "Field",
+    "tag": "Intermediary Actant",
     "URL": null,
     "cluster": "7",
     "x": -967.60803,
@@ -222,7 +222,7 @@
   {
     "key": "Civil Code",
     "label": "Civil Code",
-    "tag": "Field",
+    "tag": "Intermediary Actant",
     "URL": null,
     "cluster": "7",
     "x": -3588.0352,
@@ -232,7 +232,7 @@
   {
     "key": "Local Authorities",
     "label": "Local Authorities",
-    "tag": "Field",
+    "tag": "Intermediary Actant",
     "URL": null,
     "cluster": "7",
     "x": -2798.7822,
@@ -242,7 +242,7 @@
   {
     "key": "International Legal Frameworks",
     "label": "International Legal Frameworks",
-    "tag": "Field",
+    "tag": "Intermediary Actant",
     "URL": null,
     "cluster": "5",
     "x": -41.037384,
@@ -252,7 +252,7 @@
   {
     "key": "UNCRC",
     "label": "UNCRC",
-    "tag": "Field",
+    "tag": "Intermediary Actant",
     "URL": null,
     "cluster": "5",
     "x": -510.43146,
@@ -262,7 +262,7 @@
   {
     "key": "ECHR",
     "label": "ECHR",
-    "tag": "Field",
+    "tag": "Intermediary Actant",
     "URL": null,
     "cluster": "5",
     "x": 2273.9185,
@@ -272,7 +272,7 @@
   {
     "key": "Home Country Adoption Codes",
     "label": "Home Country Adoption Codes",
-    "tag": "Field",
+    "tag": "Intermediary Actant",
     "URL": null,
     "cluster": "5",
     "x": -3140.6968,
@@ -282,7 +282,7 @@
   {
     "key": "Intended Parents",
     "label": "Intended Parents",
-    "tag": "Field",
+    "tag": "Actor",
     "URL": null,
     "cluster": "6",
     "x": 1233.7177,
@@ -292,7 +292,7 @@
   {
     "key": "Queer Couples",
     "label": "Queer Couples",
-    "tag": "Field",
+    "tag": "Actor",
     "URL": null,
     "cluster": "6",
     "x": -2785.6418,
@@ -302,7 +302,7 @@
   {
     "key": "Heterosexual Couples",
     "label": "Heterosexual Couples",
-    "tag": "Field",
+    "tag": "Actor",
     "URL": null,
     "cluster": "6",
     "x": -1428.0157,
@@ -312,7 +312,7 @@
   {
     "key": "Single Parent",
     "label": "Single Parent",
-    "tag": "Field",
+    "tag": "Actor",
     "URL": null,
     "cluster": "6",
     "x": -3333.5469,
@@ -322,7 +322,7 @@
   {
     "key": "Families of Surrogates",
     "label": "Families of Surrogates",
-    "tag": "Field",
+    "tag": "Actor",
     "URL": null,
     "cluster": "7",
     "x": -1200.9814,
@@ -332,7 +332,7 @@
   {
     "key": "Surrogate-Born Babies",
     "label": "Surrogate-Born Babies",
-    "tag": "Field",
+    "tag": "Actor",
     "URL": null,
     "cluster": "8",
     "x": -762.3304,
@@ -342,7 +342,7 @@
   {
     "key": "Media and Journals",
     "label": "Media and Journals",
-    "tag": "Tool",
+    "tag": "Punctualized Actor",
     "URL": null,
     "cluster": "9",
     "x": 499.5366,
@@ -352,7 +352,7 @@
   {
     "key": "New York Times",
     "label": "New York Times",
-    "tag": "Tool",
+    "tag": "Punctualized Actor",
     "URL": null,
     "cluster": "9",
     "x": -2932.2502,
@@ -362,7 +362,7 @@
   {
     "key": "BBC News",
     "label": "BBC News",
-    "tag": "Tool",
+    "tag": "Punctualized Actor",
     "URL": null,
     "cluster": "9",
     "x": -1591.164,
@@ -372,7 +372,7 @@
   {
     "key": "Al Jazeera",
     "label": "Al Jazeera",
-    "tag": "Tool",
+    "tag": "Punctualized Actor",
     "URL": null,
     "cluster": "9",
     "x": -2807.251,
@@ -382,12 +382,22 @@
   {
     "key": "IVF",
     "label": "IVF",
-    "tag": "Tool",
+    "tag": "Punctualized Actor",
     "URL": null,
     "cluster": "10",
     "x": 79.15361,
     "y": 42.63924,
     "score": 100
+  },
+  {
+    "key": " ",
+    "label": "IVF",
+    "tag": "Punctualized Actor",
+    "URL": null,
+    "cluster": "10",
+    "x": 79.15361,
+    "y": 42.63924,
+    "score": 0
   }
 ],
   "edges": [
@@ -2024,7 +2034,8 @@
     { "key": "10", "color": "#424242", "clusterLabel": "Technology" }
   ],
   "tags": [
-    { "key": "Field", "image": "field.svg" },
-    { "key": "Tool", "image": "tool.svg" }
+    { "key": "Actor", "image": "person.svg" },
+    { "key": "Intermediary Actant", "image": "tool.svg" },
+    { "key": "Punctualized Actor", "image": "organization.svg" }
   ]
 }
