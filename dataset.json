@@ -1,0 +1,2030 @@
+{  "nodes": [
+  {
+    "key": "BioTexCom Clinic",
+    "label": "BioTexCom Clinic",
+    "tag": "Tool",
+    "URL": null,
+    "cluster": "0",
+    "x": 1005.4277,
+    "y": 736.8359,
+    "score": 100
+  },
+  {
+    "key": "Medical Staff",
+    "label": "Medical Staff",
+    "tag": "Tool",
+    "URL": null,
+    "cluster": "0",
+    "x": -1181.6024,
+    "y": -2464.1326,
+    "score": 75
+  },
+  {
+    "key": "Legal and Compliance Team",
+    "label": "Legal and Compliance Team",
+    "tag": "Tool",
+    "URL": null,
+    "cluster": "0",
+    "x": -464.87137,
+    "y": 1081.2302,
+    "score": 75
+  },
+  {
+    "key": "Administrative Staff",
+    "label": "Administrative Staff",
+    "tag": "Tool",
+    "URL": null,
+    "cluster": "0",
+    "x": 1996.1431,
+    "y": -637.4267,
+    "score": 75
+  },
+  {
+    "key": "Marketing and International Liaisons",
+    "label": "Marketing and International Liaisons",
+    "tag": "Tool",
+    "URL": null,
+    "cluster": "0",
+    "x": 816.73065,
+    "y": -443.65628,
+    "score": 75
+  },
+  {
+    "key": "Limited Support Staff",
+    "label": "Limited Support Staff",
+    "tag": "Tool",
+    "URL": null,
+    "cluster": "0",
+    "x": -1154.3015,
+    "y": 2296.814,
+    "score": 75
+  },
+  {
+    "key": "Surrogate Mothers",
+    "label": "Surrogate Mothers",
+    "tag": "Field",
+    "URL": null,
+    "cluster": "1",
+    "x": 1501.8763,
+    "y": 68.04324,
+    "score": 100
+  },
+  {
+    "key": "Economically Motivated Surrogates",
+    "label": "Economically Motivated Surrogates",
+    "tag": "Field",
+    "URL": null,
+    "cluster": "1",
+    "x": -381.48,
+    "y": 2142.883,
+    "score": 75
+  },
+  {
+    "key": "Conflict Resilient Surrogates",
+    "label": "Conflict Resilient Surrogates",
+    "tag": "Field",
+    "URL": null,
+    "cluster": "1",
+    "x": -2317.499,
+    "y": -901.68,
+    "score": 30
+  },
+  {
+    "key": "Experienced Surrogates",
+    "label": "Experienced Surrogates",
+    "tag": "Field",
+    "URL": null,
+    "cluster": "1",
+    "x": 164.97748,
+    "y": -2503.967,
+    "score": 75
+  },
+  {
+    "key": "First Time Surrogates",
+    "label": "First Time Surrogates",
+    "tag": "Field",
+    "URL": null,
+    "cluster": "1",
+    "x": -2819.935,
+    "y": -1804.0321,
+    "score": 75
+  },
+  {
+    "key": "Non-Governmental Organizations",
+    "label": "Non-Governmental Organizations",
+    "tag": "Field",
+    "URL": null,
+    "cluster": "2",
+    "x": 386.92926,
+    "y": -1059.4868,
+    "score": 100
+  },
+  {
+    "key": "La Strada Ukraine",
+    "label": "La Strada Ukraine",
+    "tag": "Field",
+    "URL": null,
+    "cluster": "2",
+    "x": -2099.7837,
+    "y": -1915.6926,
+    "score": 75
+  },
+  {
+    "key": "Human Rights Watch",
+    "label": "Human Rights Watch",
+    "tag": "Field",
+    "URL": null,
+    "cluster": "2",
+    "x": 259.72052,
+    "y": 1241.1606,
+    "score": 75
+  },
+  {
+    "key": "Stop Surrogacy Now",
+    "label": "Stop Surrogacy Now",
+    "tag": "Field",
+    "URL": null,
+    "cluster": "2",
+    "x": -3492.2205,
+    "y": -317.71365,
+    "score": 75
+  },
+  {
+    "key": "Tourism Agencies",
+    "label": "Tourism Agencies",
+    "tag": "Tool",
+    "URL": null,
+    "cluster": "3",
+    "x": 1648.3378,
+    "y": -1390.053,
+    "score": 100
+  },
+  {
+    "key": "IVF Travel",
+    "label": "IVF Travel",
+    "tag": "Tool",
+    "URL": null,
+    "cluster": "3",
+    "x": -1215.6309,
+    "y": 1628.4276,
+    "score": 75
+  },
+  {
+    "key": "Tammuz Family",
+    "label": "Tammuz Family",
+    "tag": "Tool",
+    "URL": null,
+    "cluster": "4",
+    "x": 875.7391,
+    "y": -1748.5709,
+    "score": 75
+  },
+  {
+    "key": "Egg Donor & Surrogacy Institute",
+    "label": "Egg Donor & Surrogacy Institute",
+    "tag": "Tool",
+    "URL": null,
+    "cluster": "4",
+    "x": -1893.5538,
+    "y": 1137.5697,
+    "score": 75
+  },
+  {
+    "key": "Ukrainian Legal Frameworks",
+    "label": "Ukrainian Legal Frameworks",
+    "tag": "Field",
+    "URL": null,
+    "cluster": "4",
+    "x": -707.4062,
+    "y": -1415.3464,
+    "score": 100
+  },
+  {
+    "key": "Health Ministry Regulations",
+    "label": "Health Ministry Regulations",
+    "tag": "Field",
+    "URL": null,
+    "cluster": "4",
+    "x": 2693.3027,
+    "y": -397.98172,
+    "score": 75
+  },
+  {
+    "key": "Family Law Code",
+    "label": "Family Law Code",
+    "tag": "Field",
+    "URL": null,
+    "cluster": "7",
+    "x": -967.60803,
+    "y": 493.60126,
+    "score": 75
+  },
+  {
+    "key": "Civil Code",
+    "label": "Civil Code",
+    "tag": "Field",
+    "URL": null,
+    "cluster": "7",
+    "x": -3588.0352,
+    "y": -1215.4473,
+    "score": 75
+  },
+  {
+    "key": "Local Authorities",
+    "label": "Local Authorities",
+    "tag": "Field",
+    "URL": null,
+    "cluster": "7",
+    "x": -2798.7822,
+    "y": -371.49722,
+    "score": 75
+  },
+  {
+    "key": "International Legal Frameworks",
+    "label": "International Legal Frameworks",
+    "tag": "Field",
+    "URL": null,
+    "cluster": "5",
+    "x": -41.037384,
+    "y": -1814.4285,
+    "score": 100
+  },
+  {
+    "key": "UNCRC",
+    "label": "UNCRC",
+    "tag": "Field",
+    "URL": null,
+    "cluster": "5",
+    "x": -510.43146,
+    "y": -660.948,
+    "score": 75
+  },
+  {
+    "key": "ECHR",
+    "label": "ECHR",
+    "tag": "Field",
+    "URL": null,
+    "cluster": "5",
+    "x": 2273.9185,
+    "y": 637.38153,
+    "score": 75
+  },
+  {
+    "key": "Home Country Adoption Codes",
+    "label": "Home Country Adoption Codes",
+    "tag": "Field",
+    "URL": null,
+    "cluster": "5",
+    "x": -3140.6968,
+    "y": 999.21173,
+    "score": 75
+  },
+  {
+    "key": "Intended Parents",
+    "label": "Intended Parents",
+    "tag": "Field",
+    "URL": null,
+    "cluster": "6",
+    "x": 1233.7177,
+    "y": 1514.8845,
+    "score": 100
+  },
+  {
+    "key": "Queer Couples",
+    "label": "Queer Couples",
+    "tag": "Field",
+    "URL": null,
+    "cluster": "6",
+    "x": -2785.6418,
+    "y": 221.04126,
+    "score": 75
+  },
+  {
+    "key": "Heterosexual Couples",
+    "label": "Heterosexual Couples",
+    "tag": "Field",
+    "URL": null,
+    "cluster": "6",
+    "x": -1428.0157,
+    "y": -1759.8544,
+    "score": 75
+  },
+  {
+    "key": "Single Parent",
+    "label": "Single Parent",
+    "tag": "Field",
+    "URL": null,
+    "cluster": "6",
+    "x": -3333.5469,
+    "y": 480.78214,
+    "score": 75
+  },
+  {
+    "key": "Families of Surrogates",
+    "label": "Families of Surrogates",
+    "tag": "Field",
+    "URL": null,
+    "cluster": "7",
+    "x": -1200.9814,
+    "y": -198.61098,
+    "score": 100
+  },
+  {
+    "key": "Surrogate-Born Babies",
+    "label": "Surrogate-Born Babies",
+    "tag": "Field",
+    "URL": null,
+    "cluster": "8",
+    "x": -762.3304,
+    "y": -3071.95,
+    "score": 100
+  },
+  {
+    "key": "Media and Journals",
+    "label": "Media and Journals",
+    "tag": "Tool",
+    "URL": null,
+    "cluster": "9",
+    "x": 499.5366,
+    "y": 2007.1714,
+    "score": 100
+  },
+  {
+    "key": "New York Times",
+    "label": "New York Times",
+    "tag": "Tool",
+    "URL": null,
+    "cluster": "9",
+    "x": -2932.2502,
+    "y": 1475.386,
+    "score": 75
+  },
+  {
+    "key": "BBC News",
+    "label": "BBC News",
+    "tag": "Tool",
+    "URL": null,
+    "cluster": "9",
+    "x": -1591.164,
+    "y": -2910.9126,
+    "score": 75
+  },
+  {
+    "key": "Al Jazeera",
+    "label": "Al Jazeera",
+    "tag": "Tool",
+    "URL": null,
+    "cluster": "9",
+    "x": -2807.251,
+    "y": -2299.898,
+    "score": 75
+  },
+  {
+    "key": "IVF",
+    "label": "IVF",
+    "tag": "Tool",
+    "URL": null,
+    "cluster": "10",
+    "x": 79.15361,
+    "y": 42.63924,
+    "score": 100
+  }
+],
+  "edges": [
+    [
+      "BioTexCom Clinic",
+      "Medical Staff"
+    ],
+    [
+      "BioTexCom Clinic",
+      "Legal and Compliance Team"
+    ],
+    [
+      "BioTexCom Clinic",
+      "Administrative Staff"
+    ],
+    [
+      "BioTexCom Clinic",
+      "Marketing and International Liaisons"
+    ],
+    [
+      "BioTexCom Clinic",
+      "Limited Support Staff"
+    ],
+    [
+      "BioTexCom Clinic",
+      "Surrogate Mothers"
+    ],
+    [
+      "BioTexCom Clinic",
+      "Economically Motivated Surrogates"
+    ],
+    [
+      "BioTexCom Clinic",
+      "Experienced Surrogates"
+    ],
+    [
+      "BioTexCom Clinic",
+      "Non-Governmental Organizations"
+    ],
+    [
+      "BioTexCom Clinic",
+      "Human Rights Watch"
+    ],
+    [
+      "BioTexCom Clinic",
+      "Stop Surrogacy Now"
+    ],
+    [
+      "BioTexCom Clinic",
+      "Tourism Agencies"
+    ],
+    [
+      "BioTexCom Clinic",
+      "IVF Travel"
+    ],
+    [
+      "BioTexCom Clinic",
+      "Tammuz Family"
+    ],
+    [
+      "BioTexCom Clinic",
+      "Egg Donor & Surrogacy Institute"
+    ],
+    [
+      "BioTexCom Clinic",
+      "Ukrainian Legal Frameworks"
+    ],
+    [
+      "BioTexCom Clinic",
+      "Health Ministry Regulations"
+    ],
+    [
+      "BioTexCom Clinic",
+      "Family Law Code"
+    ],
+    [
+      "BioTexCom Clinic",
+      "International Legal Frameworks"
+    ],
+    [
+      "BioTexCom Clinic",
+      "UNCRC"
+    ],
+    [
+      "BioTexCom Clinic",
+      "ECHR"
+    ],
+    [
+      "BioTexCom Clinic",
+      "Intended Parents"
+    ],
+    [
+      "BioTexCom Clinic",
+      "Families of Surrogates"
+    ],
+    [
+      "BioTexCom Clinic",
+      "Media and Journals"
+    ],
+    [
+      "BioTexCom Clinic",
+      "IVF"
+    ],
+    [
+      "Medical Staff",
+      "Marketing and International Liaisons"
+    ],
+    [
+      "Medical Staff",
+      "IVF"
+    ],
+    [
+      "Legal and Compliance Team",
+      "BioTexCom Clinic"
+    ],
+    [
+      "Legal and Compliance Team",
+      "Surrogate Mothers"
+    ],
+    [
+      "Legal and Compliance Team",
+      "Economically Motivated Surrogates"
+    ],
+    [
+      "Legal and Compliance Team",
+      "Non-Governmental Organizations"
+    ],
+    [
+      "Legal and Compliance Team",
+      "Human Rights Watch"
+    ],
+    [
+      "Legal and Compliance Team",
+      "Tourism Agencies"
+    ],
+    [
+      "Legal and Compliance Team",
+      "IVF Travel"
+    ],
+    [
+      "Legal and Compliance Team",
+      "Tammuz Family"
+    ],
+    [
+      "Legal and Compliance Team",
+      "Egg Donor & Surrogacy Institute"
+    ],
+    [
+      "Legal and Compliance Team",
+      "Family Law Code"
+    ],
+    [
+      "Legal and Compliance Team",
+      "International Legal Frameworks"
+    ],
+    [
+      "Legal and Compliance Team",
+      "UNCRC"
+    ],
+    [
+      "Legal and Compliance Team",
+      "ECHR"
+    ],
+    [
+      "Legal and Compliance Team",
+      "Intended Parents"
+    ],
+    [
+      "Legal and Compliance Team",
+      "Families of Surrogates"
+    ],
+    [
+      "Legal and Compliance Team",
+      "Media and Journals"
+    ],
+    [
+      "Legal and Compliance Team",
+      "IVF"
+    ],
+    [
+      "Administrative Staff",
+      "BioTexCom Clinic"
+    ],
+    [
+      "Administrative Staff",
+      "Legal and Compliance Team"
+    ],
+    [
+      "Administrative Staff",
+      "Marketing and International Liaisons"
+    ],
+    [
+      "Administrative Staff",
+      "Surrogate Mothers"
+    ],
+    [
+      "Administrative Staff",
+      "Non-Governmental Organizations"
+    ],
+    [
+      "Administrative Staff",
+      "Human Rights Watch"
+    ],
+    [
+      "Administrative Staff",
+      "Tourism Agencies"
+    ],
+    [
+      "Administrative Staff",
+      "IVF Travel"
+    ],
+    [
+      "Administrative Staff",
+      "Tammuz Family"
+    ],
+    [
+      "Administrative Staff",
+      "Ukrainian Legal Frameworks"
+    ],
+    [
+      "Administrative Staff",
+      "Health Ministry Regulations"
+    ],
+    [
+      "Administrative Staff",
+      "International Legal Frameworks"
+    ],
+    [
+      "Administrative Staff",
+      "UNCRC"
+    ],
+    [
+      "Administrative Staff",
+      "Intended Parents"
+    ],
+    [
+      "Administrative Staff",
+      "Families of Surrogates"
+    ],
+    [
+      "Administrative Staff",
+      "IVF"
+    ],
+    [
+      "Marketing and International Liaisons",
+      "BioTexCom Clinic"
+    ],
+    [
+      "Marketing and International Liaisons",
+      "Surrogate Mothers"
+    ],
+    [
+      "Marketing and International Liaisons",
+      "Economically Motivated Surrogates"
+    ],
+    [
+      "Marketing and International Liaisons",
+      "Human Rights Watch"
+    ],
+    [
+      "Marketing and International Liaisons",
+      "Tourism Agencies"
+    ],
+    [
+      "Marketing and International Liaisons",
+      "IVF Travel"
+    ],
+    [
+      "Marketing and International Liaisons",
+      "Tammuz Family"
+    ],
+    [
+      "Marketing and International Liaisons",
+      "Egg Donor & Surrogacy Institute"
+    ],
+    [
+      "Marketing and International Liaisons",
+      "Ukrainian Legal Frameworks"
+    ],
+    [
+      "Marketing and International Liaisons",
+      "Family Law Code"
+    ],
+    [
+      "Marketing and International Liaisons",
+      "UNCRC"
+    ],
+    [
+      "Marketing and International Liaisons",
+      "Intended Parents"
+    ],
+    [
+      "Marketing and International Liaisons",
+      "Media and Journals"
+    ],
+    [
+      "Marketing and International Liaisons",
+      "IVF"
+    ],
+    [
+      "Limited Support Staff",
+      "BioTexCom Clinic"
+    ],
+    [
+      "Limited Support Staff",
+      "Surrogate Mothers"
+    ],
+    [
+      "Limited Support Staff",
+      "IVF Travel"
+    ],
+    [
+      "Limited Support Staff",
+      "Egg Donor & Surrogacy Institute"
+    ],
+    [
+      "Limited Support Staff",
+      "Families of Surrogates"
+    ],
+    [
+      "Surrogate Mothers",
+      "Administrative Staff"
+    ],
+    [
+      "Surrogate Mothers",
+      "Marketing and International Liaisons"
+    ],
+    [
+      "Surrogate Mothers",
+      "Economically Motivated Surrogates"
+    ],
+    [
+      "Surrogate Mothers",
+      "Non-Governmental Organizations"
+    ],
+    [
+      "Surrogate Mothers",
+      "Tourism Agencies"
+    ],
+    [
+      "Surrogate Mothers",
+      "Tammuz Family"
+    ],
+    [
+      "Surrogate Mothers",
+      "Egg Donor & Surrogacy Institute"
+    ],
+    [
+      "Surrogate Mothers",
+      "Health Ministry Regulations"
+    ],
+    [
+      "Surrogate Mothers",
+      "Family Law Code"
+    ],
+    [
+      "Surrogate Mothers",
+      "International Legal Frameworks"
+    ],
+    [
+      "Surrogate Mothers",
+      "ECHR"
+    ],
+    [
+      "Surrogate Mothers",
+      "Families of Surrogates"
+    ],
+    [
+      "Surrogate Mothers",
+      "Media and Journals"
+    ],
+    [
+      "Surrogate Mothers",
+      "IVF"
+    ],
+    [
+      "Economically Motivated Surrogates",
+      "Legal and Compliance Team"
+    ],
+    [
+      "Economically Motivated Surrogates",
+      "Non-Governmental Organizations"
+    ],
+    [
+      "Economically Motivated Surrogates",
+      "Human Rights Watch"
+    ],
+    [
+      "Economically Motivated Surrogates",
+      "Family Law Code"
+    ],
+    [
+      "Economically Motivated Surrogates",
+      "International Legal Frameworks"
+    ],
+    [
+      "Economically Motivated Surrogates",
+      "UNCRC"
+    ],
+    [
+      "Economically Motivated Surrogates",
+      "Media and Journals"
+    ],
+    [
+      "Economically Motivated Surrogates",
+      "IVF"
+    ],
+    [
+      "Conflict Resilient Surrogates",
+      "Legal and Compliance Team"
+    ],
+    [
+      "Conflict Resilient Surrogates",
+      "Limited Support Staff"
+    ],
+    [
+      "Conflict Resilient Surrogates",
+      "La Strada Ukraine"
+    ],
+    [
+      "Conflict Resilient Surrogates",
+      "Egg Donor & Surrogacy Institute"
+    ],
+    [
+      "Conflict Resilient Surrogates",
+      "Ukrainian Legal Frameworks"
+    ],
+    [
+      "Conflict Resilient Surrogates",
+      "Health Ministry Regulations"
+    ],
+    [
+      "Conflict Resilient Surrogates",
+      "Family Law Code"
+    ],
+    [
+      "Conflict Resilient Surrogates",
+      "Heterosexual Couples"
+    ],
+    [
+      "Experienced Surrogates",
+      "IVF"
+    ],
+    [
+      "First Time Surrogates",
+      "Medical Staff"
+    ],
+    [
+      "First Time Surrogates",
+      "Marketing and International Liaisons"
+    ],
+    [
+      "First Time Surrogates",
+      "Family Law Code"
+    ],
+    [
+      "First Time Surrogates",
+      "Local Authorities"
+    ],
+    [
+      "First Time Surrogates",
+      "International Legal Frameworks"
+    ],
+    [
+      "First Time Surrogates",
+      "Single Parent"
+    ],
+    [
+      "First Time Surrogates",
+      "New York Times"
+    ],
+    [
+      "First Time Surrogates",
+      "Al Jazeera"
+    ],
+    [
+      "Non-Governmental Organizations",
+      "Legal and Compliance Team"
+    ],
+    [
+      "Non-Governmental Organizations",
+      "Administrative Staff"
+    ],
+    [
+      "Non-Governmental Organizations",
+      "Marketing and International Liaisons"
+    ],
+    [
+      "Non-Governmental Organizations",
+      "Surrogate Mothers"
+    ],
+    [
+      "Non-Governmental Organizations",
+      "Tourism Agencies"
+    ],
+    [
+      "Non-Governmental Organizations",
+      "IVF Travel"
+    ],
+    [
+      "Non-Governmental Organizations",
+      "Family Law Code"
+    ],
+    [
+      "Non-Governmental Organizations",
+      "International Legal Frameworks"
+    ],
+    [
+      "Non-Governmental Organizations",
+      "UNCRC"
+    ],
+    [
+      "Non-Governmental Organizations",
+      "Intended Parents"
+    ],
+    [
+      "Non-Governmental Organizations",
+      "Families of Surrogates"
+    ],
+    [
+      "Non-Governmental Organizations",
+      "IVF"
+    ],
+    [
+      "La Strada Ukraine",
+      "Medical Staff"
+    ],
+    [
+      "La Strada Ukraine",
+      "Marketing and International Liaisons"
+    ],
+    [
+      "La Strada Ukraine",
+      "Conflict Resilient Surrogates"
+    ],
+    [
+      "La Strada Ukraine",
+      "Egg Donor & Surrogacy Institute"
+    ],
+    [
+      "La Strada Ukraine",
+      "Ukrainian Legal Frameworks"
+    ],
+    [
+      "La Strada Ukraine",
+      "UNCRC"
+    ],
+    [
+      "La Strada Ukraine",
+      "Al Jazeera"
+    ],
+    [
+      "Human Rights Watch",
+      "BioTexCom Clinic"
+    ],
+    [
+      "Human Rights Watch",
+      "Legal and Compliance Team"
+    ],
+    [
+      "Human Rights Watch",
+      "Administrative Staff"
+    ],
+    [
+      "Human Rights Watch",
+      "Marketing and International Liaisons"
+    ],
+    [
+      "Human Rights Watch",
+      "Surrogate Mothers"
+    ],
+    [
+      "Human Rights Watch",
+      "Non-Governmental Organizations"
+    ],
+    [
+      "Human Rights Watch",
+      "Tourism Agencies"
+    ],
+    [
+      "Human Rights Watch",
+      "IVF Travel"
+    ],
+    [
+      "Human Rights Watch",
+      "Egg Donor & Surrogacy Institute"
+    ],
+    [
+      "Human Rights Watch",
+      "Family Law Code"
+    ],
+    [
+      "Human Rights Watch",
+      "International Legal Frameworks"
+    ],
+    [
+      "Human Rights Watch",
+      "UNCRC"
+    ],
+    [
+      "Human Rights Watch",
+      "ECHR"
+    ],
+    [
+      "Human Rights Watch",
+      "Intended Parents"
+    ],
+    [
+      "Human Rights Watch",
+      "Families of Surrogates"
+    ],
+    [
+      "Human Rights Watch",
+      "Media and Journals"
+    ],
+    [
+      "Human Rights Watch",
+      "IVF"
+    ],
+    [
+      "Stop Surrogacy Now",
+      "UNCRC"
+    ],
+    [
+      "Tourism Agencies",
+      "BioTexCom Clinic"
+    ],
+    [
+      "Tourism Agencies",
+      "Administrative Staff"
+    ],
+    [
+      "Tourism Agencies",
+      "Marketing and International Liaisons"
+    ],
+    [
+      "Tourism Agencies",
+      "Surrogate Mothers"
+    ],
+    [
+      "Tourism Agencies",
+      "Non-Governmental Organizations"
+    ],
+    [
+      "Tourism Agencies",
+      "Human Rights Watch"
+    ],
+    [
+      "Tourism Agencies",
+      "Tammuz Family"
+    ],
+    [
+      "Tourism Agencies",
+      "Ukrainian Legal Frameworks"
+    ],
+    [
+      "Tourism Agencies",
+      "Family Law Code"
+    ],
+    [
+      "Tourism Agencies",
+      "International Legal Frameworks"
+    ],
+    [
+      "Tourism Agencies",
+      "UNCRC"
+    ],
+    [
+      "Tourism Agencies",
+      "ECHR"
+    ],
+    [
+      "Tourism Agencies",
+      "Families of Surrogates"
+    ],
+    [
+      "Tourism Agencies",
+      "Media and Journals"
+    ],
+    [
+      "Tourism Agencies",
+      "IVF"
+    ],
+    [
+      "IVF Travel",
+      "Legal and Compliance Team"
+    ],
+    [
+      "IVF Travel",
+      "Marketing and International Liaisons"
+    ],
+    [
+      "IVF Travel",
+      "Surrogate Mothers"
+    ],
+    [
+      "IVF Travel",
+      "Economically Motivated Surrogates"
+    ],
+    [
+      "IVF Travel",
+      "Non-Governmental Organizations"
+    ],
+    [
+      "IVF Travel",
+      "Human Rights Watch"
+    ],
+    [
+      "IVF Travel",
+      "Family Law Code"
+    ],
+    [
+      "IVF Travel",
+      "Intended Parents"
+    ],
+    [
+      "IVF Travel",
+      "Families of Surrogates"
+    ],
+    [
+      "IVF Travel",
+      "Media and Journals"
+    ],
+    [
+      "IVF Travel",
+      "IVF"
+    ],
+    [
+      "Tammuz Family",
+      "Legal and Compliance Team"
+    ],
+    [
+      "Tammuz Family",
+      "Administrative Staff"
+    ],
+    [
+      "Tammuz Family",
+      "Marketing and International Liaisons"
+    ],
+    [
+      "Tammuz Family",
+      "Surrogate Mothers"
+    ],
+    [
+      "Tammuz Family",
+      "Non-Governmental Organizations"
+    ],
+    [
+      "Tammuz Family",
+      "Human Rights Watch"
+    ],
+    [
+      "Tammuz Family",
+      "Tourism Agencies"
+    ],
+    [
+      "Tammuz Family",
+      "Health Ministry Regulations"
+    ],
+    [
+      "Tammuz Family",
+      "Family Law Code"
+    ],
+    [
+      "Tammuz Family",
+      "International Legal Frameworks"
+    ],
+    [
+      "Tammuz Family",
+      "UNCRC"
+    ],
+    [
+      "Tammuz Family",
+      "ECHR"
+    ],
+    [
+      "Tammuz Family",
+      "Families of Surrogates"
+    ],
+    [
+      "Tammuz Family",
+      "Media and Journals"
+    ],
+    [
+      "Tammuz Family",
+      "IVF"
+    ],
+    [
+      "Egg Donor & Surrogacy Institute",
+      "BioTexCom Clinic"
+    ],
+    [
+      "Egg Donor & Surrogacy Institute",
+      "Surrogate Mothers"
+    ],
+    [
+      "Egg Donor & Surrogacy Institute",
+      "IVF Travel"
+    ],
+    [
+      "Egg Donor & Surrogacy Institute",
+      "UNCRC"
+    ],
+    [
+      "Egg Donor & Surrogacy Institute",
+      "Families of Surrogates"
+    ],
+    [
+      "Egg Donor & Surrogacy Institute",
+      "Media and Journals"
+    ],
+    [
+      "Egg Donor & Surrogacy Institute",
+      "IVF"
+    ],
+    [
+      "Ukrainian Legal Frameworks",
+      "Non-Governmental Organizations"
+    ],
+    [
+      "Ukrainian Legal Frameworks",
+      "Tourism Agencies"
+    ],
+    [
+      "Ukrainian Legal Frameworks",
+      "Family Law Code"
+    ],
+    [
+      "Ukrainian Legal Frameworks",
+      "IVF"
+    ],
+    [
+      "Health Ministry Regulations",
+      "BioTexCom Clinic"
+    ],
+    [
+      "Health Ministry Regulations",
+      "Administrative Staff"
+    ],
+    [
+      "Health Ministry Regulations",
+      "Marketing and International Liaisons"
+    ],
+    [
+      "Health Ministry Regulations",
+      "Surrogate Mothers"
+    ],
+    [
+      "Health Ministry Regulations",
+      "Economically Motivated Surrogates"
+    ],
+    [
+      "Health Ministry Regulations",
+      "Non-Governmental Organizations"
+    ],
+    [
+      "Health Ministry Regulations",
+      "Tourism Agencies"
+    ],
+    [
+      "Health Ministry Regulations",
+      "ECHR"
+    ],
+    [
+      "Health Ministry Regulations",
+      "IVF"
+    ],
+    [
+      "Family Law Code",
+      "Legal and Compliance Team"
+    ],
+    [
+      "Family Law Code",
+      "Marketing and International Liaisons"
+    ],
+    [
+      "Family Law Code",
+      "Economically Motivated Surrogates"
+    ],
+    [
+      "Family Law Code",
+      "Non-Governmental Organizations"
+    ],
+    [
+      "Family Law Code",
+      "Human Rights Watch"
+    ],
+    [
+      "Family Law Code",
+      "IVF Travel"
+    ],
+    [
+      "Family Law Code",
+      "Ukrainian Legal Frameworks"
+    ],
+    [
+      "Family Law Code",
+      "UNCRC"
+    ],
+    [
+      "Family Law Code",
+      "Intended Parents"
+    ],
+    [
+      "Family Law Code",
+      "Families of Surrogates"
+    ],
+    [
+      "Family Law Code",
+      "IVF"
+    ],
+    [
+      "Civil Code",
+      "Conflict Resilient Surrogates"
+    ],
+    [
+      "Civil Code",
+      "Egg Donor & Surrogacy Institute"
+    ],
+    [
+      "Civil Code",
+      "Family Law Code"
+    ],
+    [
+      "Civil Code",
+      "Home Country Adoption Codes"
+    ],
+    [
+      "Civil Code",
+      "Single Parent"
+    ],
+    [
+      "Civil Code",
+      "Surrogate-Born Babies"
+    ],
+    [
+      "Civil Code",
+      "BBC News"
+    ],
+    [
+      "Civil Code",
+      "Al Jazeera"
+    ],
+    [
+      "Local Authorities",
+      "Conflict Resilient Surrogates"
+    ],
+    [
+      "Local Authorities",
+      "La Strada Ukraine"
+    ],
+    [
+      "Local Authorities",
+      "Egg Donor & Surrogacy Institute"
+    ],
+    [
+      "Local Authorities",
+      "Ukrainian Legal Frameworks"
+    ],
+    [
+      "Local Authorities",
+      "UNCRC"
+    ],
+    [
+      "Local Authorities",
+      "Home Country Adoption Codes"
+    ],
+    [
+      "Local Authorities",
+      "Families of Surrogates"
+    ],
+    [
+      "International Legal Frameworks",
+      "BioTexCom Clinic"
+    ],
+    [
+      "International Legal Frameworks",
+      "Legal and Compliance Team"
+    ],
+    [
+      "International Legal Frameworks",
+      "Marketing and International Liaisons"
+    ],
+    [
+      "International Legal Frameworks",
+      "Non-Governmental Organizations"
+    ],
+    [
+      "International Legal Frameworks",
+      "Tourism Agencies"
+    ],
+    [
+      "International Legal Frameworks",
+      "IVF Travel"
+    ],
+    [
+      "International Legal Frameworks",
+      "Health Ministry Regulations"
+    ],
+    [
+      "International Legal Frameworks",
+      "UNCRC"
+    ],
+    [
+      "International Legal Frameworks",
+      "IVF"
+    ],
+    [
+      "UNCRC",
+      "BioTexCom Clinic"
+    ],
+    [
+      "UNCRC",
+      "Administrative Staff"
+    ],
+    [
+      "UNCRC",
+      "Surrogate Mothers"
+    ],
+    [
+      "UNCRC",
+      "Non-Governmental Organizations"
+    ],
+    [
+      "UNCRC",
+      "Human Rights Watch"
+    ],
+    [
+      "UNCRC",
+      "IVF Travel"
+    ],
+    [
+      "UNCRC",
+      "Ukrainian Legal Frameworks"
+    ],
+    [
+      "UNCRC",
+      "International Legal Frameworks"
+    ],
+    [
+      "UNCRC",
+      "ECHR"
+    ],
+    [
+      "UNCRC",
+      "Intended Parents"
+    ],
+    [
+      "UNCRC",
+      "Families of Surrogates"
+    ],
+    [
+      "UNCRC",
+      "IVF"
+    ],
+    [
+      "ECHR",
+      "BioTexCom Clinic"
+    ],
+    [
+      "ECHR",
+      "Administrative Staff"
+    ],
+    [
+      "ECHR",
+      "Marketing and International Liaisons"
+    ],
+    [
+      "ECHR",
+      "Surrogate Mothers"
+    ],
+    [
+      "ECHR",
+      "Non-Governmental Organizations"
+    ],
+    [
+      "ECHR",
+      "Human Rights Watch"
+    ],
+    [
+      "ECHR",
+      "Tourism Agencies"
+    ],
+    [
+      "ECHR",
+      "IVF Travel"
+    ],
+    [
+      "ECHR",
+      "Health Ministry Regulations"
+    ],
+    [
+      "ECHR",
+      "Family Law Code"
+    ],
+    [
+      "ECHR",
+      "International Legal Frameworks"
+    ],
+    [
+      "ECHR",
+      "UNCRC"
+    ],
+    [
+      "ECHR",
+      "Intended Parents"
+    ],
+    [
+      "ECHR",
+      "Media and Journals"
+    ],
+    [
+      "ECHR",
+      "IVF"
+    ],
+    [
+      "Home Country Adoption Codes",
+      "Economically Motivated Surrogates"
+    ],
+    [
+      "Home Country Adoption Codes",
+      "Human Rights Watch"
+    ],
+    [
+      "Home Country Adoption Codes",
+      "Stop Surrogacy Now"
+    ],
+    [
+      "Home Country Adoption Codes",
+      "IVF Travel"
+    ],
+    [
+      "Home Country Adoption Codes",
+      "Tammuz Family"
+    ],
+    [
+      "Home Country Adoption Codes",
+      "Single Parent"
+    ],
+    [
+      "Home Country Adoption Codes",
+      "New York Times"
+    ],
+    [
+      "Intended Parents",
+      "Surrogate Mothers"
+    ],
+    [
+      "Intended Parents",
+      "Economically Motivated Surrogates"
+    ],
+    [
+      "Intended Parents",
+      "Human Rights Watch"
+    ],
+    [
+      "Intended Parents",
+      "Tourism Agencies"
+    ],
+    [
+      "Intended Parents",
+      "Egg Donor & Surrogacy Institute"
+    ],
+    [
+      "Intended Parents",
+      "Ukrainian Legal Frameworks"
+    ],
+    [
+      "Intended Parents",
+      "UNCRC"
+    ],
+    [
+      "Intended Parents",
+      "Families of Surrogates"
+    ],
+    [
+      "Intended Parents",
+      "IVF"
+    ],
+    [
+      "Queer Couples",
+      "Economically Motivated Surrogates"
+    ],
+    [
+      "Queer Couples",
+      "Local Authorities"
+    ],
+    [
+      "Queer Couples",
+      "International Legal Frameworks"
+    ],
+    [
+      "Queer Couples",
+      "UNCRC"
+    ],
+    [
+      "Queer Couples",
+      "Heterosexual Couples"
+    ],
+    [
+      "Queer Couples",
+      "Single Parent"
+    ],
+    [
+      "Queer Couples",
+      "Families of Surrogates"
+    ],
+    [
+      "Heterosexual Couples",
+      "Surrogate Mothers"
+    ],
+    [
+      "Heterosexual Couples",
+      "Experienced Surrogates"
+    ],
+    [
+      "Heterosexual Couples",
+      "Non-Governmental Organizations"
+    ],
+    [
+      "Heterosexual Couples",
+      "Stop Surrogacy Now"
+    ],
+    [
+      "Heterosexual Couples",
+      "IVF Travel"
+    ],
+    [
+      "Heterosexual Couples",
+      "Ukrainian Legal Frameworks"
+    ],
+    [
+      "Heterosexual Couples",
+      "International Legal Frameworks"
+    ],
+    [
+      "Heterosexual Couples",
+      "IVF"
+    ],
+    [
+      "Single Parent",
+      "Administrative Staff"
+    ],
+    [
+      "Single Parent",
+      "Economically Motivated Surrogates"
+    ],
+    [
+      "Single Parent",
+      "Stop Surrogacy Now"
+    ],
+    [
+      "Single Parent",
+      "IVF Travel"
+    ],
+    [
+      "Single Parent",
+      "Home Country Adoption Codes"
+    ],
+    [
+      "Single Parent",
+      "Families of Surrogates"
+    ],
+    [
+      "Single Parent",
+      "New York Times"
+    ],
+    [
+      "Single Parent",
+      "IVF"
+    ],
+    [
+      "Families of Surrogates",
+      "Legal and Compliance Team"
+    ],
+    [
+      "Families of Surrogates",
+      "Marketing and International Liaisons"
+    ],
+    [
+      "Families of Surrogates",
+      "Non-Governmental Organizations"
+    ],
+    [
+      "Families of Surrogates",
+      "Human Rights Watch"
+    ],
+    [
+      "Families of Surrogates",
+      "Tourism Agencies"
+    ],
+    [
+      "Families of Surrogates",
+      "IVF Travel"
+    ],
+    [
+      "Families of Surrogates",
+      "Tammuz Family"
+    ],
+    [
+      "Families of Surrogates",
+      "Family Law Code"
+    ],
+    [
+      "Families of Surrogates",
+      "International Legal Frameworks"
+    ],
+    [
+      "Families of Surrogates",
+      "UNCRC"
+    ],
+    [
+      "Families of Surrogates",
+      "Intended Parents"
+    ],
+    [
+      "Families of Surrogates",
+      "IVF"
+    ],
+    [
+      "Surrogate-Born Babies",
+      "First Time Surrogates"
+    ],
+    [
+      "Surrogate-Born Babies",
+      "Non-Governmental Organizations"
+    ],
+    [
+      "Surrogate-Born Babies",
+      "Tourism Agencies"
+    ],
+    [
+      "Surrogate-Born Babies",
+      "Tammuz Family"
+    ],
+    [
+      "Surrogate-Born Babies",
+      "International Legal Frameworks"
+    ],
+    [
+      "Surrogate-Born Babies",
+      "BBC News"
+    ],
+    [
+      "Surrogate-Born Babies",
+      "IVF"
+    ],
+    [
+      "Media and Journals",
+      "Legal and Compliance Team"
+    ],
+    [
+      "Media and Journals",
+      "Surrogate Mothers"
+    ],
+    [
+      "Media and Journals",
+      "Economically Motivated Surrogates"
+    ],
+    [
+      "Media and Journals",
+      "Non-Governmental Organizations"
+    ],
+    [
+      "Media and Journals",
+      "Human Rights Watch"
+    ],
+    [
+      "Media and Journals",
+      "IVF Travel"
+    ],
+    [
+      "Media and Journals",
+      "Tammuz Family"
+    ],
+    [
+      "Media and Journals",
+      "Egg Donor & Surrogacy Institute"
+    ],
+    [
+      "Media and Journals",
+      "Ukrainian Legal Frameworks"
+    ],
+    [
+      "Media and Journals",
+      "Family Law Code"
+    ],
+    [
+      "Media and Journals",
+      "International Legal Frameworks"
+    ],
+    [
+      "Media and Journals",
+      "IVF"
+    ],
+    [
+      "New York Times",
+      "BioTexCom Clinic"
+    ],
+    [
+      "New York Times",
+      "Conflict Resilient Surrogates"
+    ],
+    [
+      "New York Times",
+      "Human Rights Watch"
+    ],
+    [
+      "New York Times",
+      "Stop Surrogacy Now"
+    ],
+    [
+      "New York Times",
+      "IVF Travel"
+    ],
+    [
+      "New York Times",
+      "Egg Donor & Surrogacy Institute"
+    ],
+    [
+      "New York Times",
+      "Media and Journals"
+    ],
+    [
+      "BBC News",
+      "Medical Staff"
+    ],
+    [
+      "BBC News",
+      "First Time Surrogates"
+    ],
+    [
+      "BBC News",
+      "La Strada Ukraine"
+    ],
+    [
+      "BBC News",
+      "Tammuz Family"
+    ],
+    [
+      "BBC News",
+      "International Legal Frameworks"
+    ],
+    [
+      "BBC News",
+      "UNCRC"
+    ],
+    [
+      "BBC News",
+      "Families of Surrogates"
+    ],
+    [
+      "Al Jazeera",
+      "Medical Staff"
+    ],
+    [
+      "Al Jazeera",
+      "Conflict Resilient Surrogates"
+    ],
+    [
+      "Al Jazeera",
+      "Stop Surrogacy Now"
+    ],
+    [
+      "Al Jazeera",
+      "Tourism Agencies"
+    ],
+    [
+      "Al Jazeera",
+      "Tammuz Family"
+    ],
+    [
+      "Al Jazeera",
+      "International Legal Frameworks"
+    ],
+    [
+      "Al Jazeera",
+      "Queer Couples"
+    ],
+    [
+      "Al Jazeera",
+      "Single Parent"
+    ],
+    [
+      "IVF",
+      "Legal and Compliance Team"
+    ],
+    [
+      "IVF",
+      "Marketing and International Liaisons"
+    ],
+    [
+      "IVF",
+      "Surrogate Mothers"
+    ],
+    [
+      "IVF",
+      "Economically Motivated Surrogates"
+    ],
+    [
+      "IVF",
+      "Non-Governmental Organizations"
+    ],
+    [
+      "IVF",
+      "Human Rights Watch"
+    ],
+    [
+      "IVF",
+      "Tourism Agencies"
+    ],
+    [
+      "IVF",
+      "IVF Travel"
+    ],
+    [
+      "IVF",
+      "Tammuz Family"
+    ],
+    [
+      "IVF",
+      "Ukrainian Legal Frameworks"
+    ],
+    [
+      "IVF",
+      "Family Law Code"
+    ],
+    [
+      "IVF",
+      "UNCRC"
+    ],
+    [
+      "IVF",
+      "ECHR"
+    ],
+    [
+      "IVF",
+      "Families of Surrogates"
+    ],
+    [
+      "IVF",
+      "Media and Journals"
+    ],
+    [
+      "La Strada Ukraine",
+      "Human Rights Watch"
+    ],
+    [
+      "New York Times",
+      "Queer Couples"
+    ],
+    [
+      "Civil Code",
+      "Local Authorities"
+    ],
+    [
+      "Single Parent",
+      "Egg Donor & Surrogacy Institute"
+    ],
+    [
+      "Local Authorities",
+      "Surrogate Mothers"
+    ],
+    [
+      "Conflict Resilient Surrogates",
+      "First Time Surrogates"
+    ],
+    [
+      "BBC News",
+      "Surrogate Mothers"
+    ],
+    [
+      "Medical Staff",
+      "Surrogate Mothers"
+    ],
+    [
+      "Human Rights Watch",
+      "Local Authorities"
+    ],
+    [
+      "Queer Couples",
+      "IVF Travel"
+    ],
+    [
+      "Conflict Resilient Surrogates",
+      "Marketing and International Liaisons"
+    ],
+    [
+      "La Strada Ukraine",
+      "Non-Governmental Organizations"
+    ],
+    [
+      "Single Parent",
+      "Legal and Compliance Team"
+    ],
+    [
+      "IVF Travel",
+      "Queer Couples"
+    ],
+    [
+      "Home Country Adoption Codes",
+      "IVF"
+    ],
+    [
+      "Egg Donor & Surrogacy Institute",
+      "Local Authorities"
+    ],
+    [
+      "Non-Governmental Organizations",
+      "Conflict Resilient Surrogates"
+    ],
+    [
+      "Heterosexual Couples",
+      "Tammuz Family"
+    ],
+    [
+      "Conflict Resilient Surrogates",
+      "Human Rights Watch"
+    ],
+    ["Legal and Compliance Team",
+      "Local Authorities"]
+  ],
+  "clusters": [
+    { "key": "0", "color": "#D32F2F", "clusterLabel": "Clinic" },
+    { "key": "1", "color": "#FF9800", "clusterLabel": "Surrogate" },
+    { "key": "2", "color": "#FBC02D", "clusterLabel": "NGOs" },
+    { "key": "3", "color": "#388E3C", "clusterLabel": "Tourism" },
+    { "key": "4", "color": "#0097A7", "clusterLabel": "Ukrainian" },
+    { "key": "5", "color": "#1976D2", "clusterLabel": "International" },
+    { "key": "6", "color": "#512DA8", "clusterLabel": "Parents" },
+    { "key": "7", "color": "#8E24AA", "clusterLabel": "Family" },
+    { "key": "8", "color": "#D81B60", "clusterLabel": "Babies" },
+    { "key": "9", "color": "#607D8B", "clusterLabel": "Media" },
+    { "key": "10", "color": "#424242", "clusterLabel": "Technology" }
+  ],
+  "tags": [
+    { "key": "Field", "image": "field.svg" },
+    { "key": "Tool", "image": "tool.svg" }
+  ]
+}
