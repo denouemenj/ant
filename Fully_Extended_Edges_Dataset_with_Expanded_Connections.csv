@@ -1,0 +1,496 @@
+Source,Target,Type,Affordance,Description
+1,2,Directed,Demand,"BioTexCom Clinic demands operational support from Medical Staff, essential for carrying out surrogacy services."
+1,3,Directed,Demand,"BioTexCom Clinic demands compliance from Legal Team to meet regulatory and contractual standards, especially concerning surrogates' rights."
+1,3,Directed,Encourage,BioTexCom supports Legal TeamÕs efforts to keep surrogacy contracts compliant with local and international standards.
+1,4,Directed,Allow,"BioTexCom Clinic allows Administrative Staff to coordinate logistics between clients, surrogates, and clinic departments."
+1,5,Directed,Allow,BioTexCom collaborates with Marketing Team to craft messaging that accurately reflects the clinicÕs ethical practices.
+1,5,Directed,Encourage,"BioTexCom Clinic encourages Marketing to promote surrogacy services internationally, focusing on affordability and accessibility."
+1,6,Directed,Encourage,"BioTexCom Clinic supports limited Support Staff during high-demand periods, facilitating workload balance."
+1,7,Directed,Request,"BioTexCom Clinic requests surrogate networks recruit economically motivated women, targeting those in need of income."
+1,8,Directed,Allow,"BioTexCom Clinic allows experienced surrogates to act as mentors, helping newer surrogates adjust to the process."
+1,8,Directed,Encourage,"BioTexCom encourages experienced surrogates to participate in peer mentorship programs, helping new surrogates navigate challenges."
+1,10,Directed,Demand,BioTexCom Clinic demands higher participation from conflict-resilient surrogates during challenging cases.
+1,12,Directed,Encourage,"BioTexCom Clinic encourages NGOs to provide feedback on surrogacy protocols, aiming to align practices with ethical standards. / BioTexCom supports NGO initiatives that provide education on surrogate rights, strengthening ethical community relations."
+1,12,Directed,Request,BioTexCom Clinic requests NGOs highlight positive surrogate experiences to balance public perception.
+1,14,Directed,Allow,BioTexCom partners with Human Rights Watch to ensure ethical oversight of surrogate health standards.
+1,14,Directed,Refuse,"BioTexCom Clinic refuses full access to Human Rights Watch, limiting scrutiny to safeguard client privacy."
+1,15,Directed,Discourage,"BioTexCom Clinic discourages advocacy groups from direct interventions, preferring internal compliance measures. / BioTexCom Clinic discourages Stop Surrogacy Now from conducting anti-surrogacy protests at clinic locations."
+1,16,Directed,Allow,"BioTexCom Clinic allows Tourism Agencies to promote its services to international clients, increasing client diversity."
+1,16,Directed,Encourage,BioTexCom supports Tourism Agencies by offering comprehensive information on clinic operations to inform international clients.
+1,17,Directed,Encourage,BioTexCom Clinic supports IVF TravelÕs logistical needs to facilitate client-surgeon connections.
+1,18,Directed,Request,"BioTexCom Clinic requests Tammuz Family promote the clinic's success rate, attracting clients from specific demographics."
+1,19,Directed,Demand,"BioTexCom Clinic demands Egg Donor & Surrogacy Institute provide more egg donation options, enhancing service offerings."
+1,20,Directed,Encourage,"BioTexCom Clinic encourages Local Authorities to provide security around clinic premises, ensuring surrogate and client safety. / BioTexCom advocates for Local Authorities to provide support for surrogates, enhancing community involvement in surrogate welfare."
+1,21,Directed,Request,BioTexCom Clinic requests Health Ministry maintain current health protocols to continue operations.
+1,22,Directed,Allow,"BioTexCom Clinic allows Family Law Code to influence surrogate contract terms, maintaining legal alignment."
+1,25,Directed,Refuse,"BioTexCom Clinic restricts practices that conflict with UNCRC child welfare policies, adhering to international standards."
+1,26,Directed,Encourage,"BioTexCom Clinic encourages media outlets to showcase successful surrogacy stories, improving public perception."
+1,27,Directed,Encourage,"BioTexCom encourages ECHR to establish clear guidelines for surrogacy contracts, promoting international legal consistency."
+1,27,Directed,Request,"BioTexCom requests ECHRÕs guidance to align with European human rights standards, enhancing clinic credibility."
+1,29,Directed,Allow,"BioTexCom Clinic allows Intended Parents access to surrogate health records (with consent), enhancing transparency."
+1,33,Directed,Demand,"BioTexCom demands that families of surrogates provide post-birth support to the surrogate, recognizing the psychological aspects of the process."
+1,33,Directed,Encourage,"BioTexCom Clinic encourages families of surrogates to stay involved during the contract, fostering emotional support."
+1,35,Directed,Encourage,"BioTexCom supports media efforts to accurately portray the surrogacy process, promoting transparency and addressing misconceptions."
+1,39,Directed,Allow,"BioTexCom Clinic allows the use of IVF technology, facilitating surrogacy and enabling biological reproduction for clients."
+1,39,Directed,Encourage,"BioTexCom promotes IVF technology as a key aspect of their surrogacy program, enhancing their reputation in the fertility industry."
+2,5,Directed,Encourage,"Medical Staff supports Marketing Team by providing detailed health data for promotional materials, emphasizing clinic safety."
+2,39,Directed,Demand,Medical Staff demands precise IVF protocols to ensure successful implantation and reduce health risks to surrogates.
+3,1,Directed,Demand,"Legal Team ensures BioTexCom adheres to contractual terms for IVF procedures, safeguarding both clients and surrogates."
+3,1,Directed,Request,Legal Team recommends BioTexCom adopt clearer transparency policies in response to client and surrogate feedback.
+3,7,Directed,Allow,"Legal Team allows surrogate network to review contract clauses, increasing surrogate understanding and compliance."
+3,7,Directed,Request,"Legal Team recommends that surrogate network advise surrogates on legal aspects, promoting informed decisions."
+3,8,Directed,Encourage,"Legal Team educates experienced surrogates on their legal rights, empowering them with knowledge for future surrogacy engagements."
+3,8,Directed,Request,Legal Team requests experienced surrogates provide input on legal protections needed in contracts.
+3,12,Directed,Allow,"Legal Team allows NGOs access to contract templates for transparency and ethical verification. / Legal Team collaborates with NGOs to develop ethical surrogacy contracts, incorporating surrogate protections."
+3,14,Directed,Request,"Legal Team requests Human Rights Watch review clinic practices, promoting transparency and ethical compliance."
+3,16,Directed,Demand,"Legal Team demands Tourism Agencies adhere to client privacy standards, preventing unauthorized data sharing."
+3,17,Directed,Encourage,Legal Team facilitates IVF TravelÕs operations by ensuring that surrogacy contracts include travel rights for international surrogates and clients.
+3,18,Directed,Encourage,"Legal Team advises Tammuz Family on legal compliance in international surrogacy contracts, ensuring ethical practices."
+3,19,Directed,Allow,"Legal Team permits Egg Donor & Surrogacy Institute to access legal documentation for egg donor contracts, ensuring legal clarity."
+3,22,Directed,Encourage,"Legal Team supports Family Law Code by integrating legal updates into surrogate contracts, maintaining compliance."
+3,25,Directed,Allow,"Legal Team allows UNCRC guidelines to shape child protection clauses in surrogacy contracts, aligning with ethical norms."
+3,25,Directed,Request,Legal Team recommends UNCRC adopt standards that protect surrogate-born childrenÕs rights in international cases.
+3,26,Directed,Allow,"Legal Team collaborates with media to explain legal aspects of surrogacy, enhancing public understanding. / Legal Team allows media access to certain legal records, enhancing transparency about surrogacy regulations."
+3,27,Directed,Encourage,"Legal Team supports ECHR by referencing human rights guidelines in contract development, aligning with ethical standards."
+3,29,Directed,Encourage,Legal Team assists intended parents by providing legal clarity on surrogate and parental rights.
+3,29,Directed,Request,"Legal Team informs intended parents about the legal obligations tied to IVF and surrogacy, ensuring informed consent."
+3,33,Directed,Encourage,"Legal Team advises families of surrogates on legal rights related to surrogacy agreements, ensuring informed decision-making."
+3,35,Directed,Demand,"Legal Team demands media portray surrogatesÕ rights accurately, emphasizing ethical standards in all surrogacy contracts."
+3,39,Directed,Encourage,Legal Team supports IVF technology by drafting contracts that address IVF-related risks and responsibilities for clients and surrogates.
+3,39,Directed,Request,Legal Team updates surrogacy contracts to reflect evolving IVF technology risks and surrogate protections.
+4,1,Directed,Encourage,"Administrative Staff facilitates communication between BioTexCom departments, supporting efficient clinic operations."
+4,3,Directed,Encourage,"Administrative Staff supports Legal Team by providing accurate surrogate data, aiding in ethical contract drafting."
+4,5,Directed,Encourage,"Administrative Staff supports Marketing by providing operational data for client outreach, helping to manage clinic visibility. / Administrative Staff facilitates Marketing operations by providing logistical support, ensuring coordinated promotional efforts."
+4,7,Directed,Encourage,"Administrative Staff encourages surrogate networks to establish communication channels for family updates, ensuring support."
+4,7,Directed,Request,Administrative Staff requests surrogate network maintain accurate scheduling to avoid disruptions.
+4,12,Directed,Allow,"Administrative Staff allows NGOs to observe clinic operations, maintaining transparency in administrative processes. / Administrative Staff permits NGOs limited access to clinic logistics, supporting operational transparency."
+4,14,Directed,Allow,"Administrative Staff permits Human Rights Watch access to operational records, increasing clinic accountability."
+4,16,Directed,Allow,Administrative Staff coordinates with Tourism Agencies to ensure that clients receive accurate information about the surrogacy process.
+4,16,Directed,Encourage,"Administrative Staff facilitates Tourism AgenciesÕ arrangements by coordinating clinic tours for international clients. / Administrative Staff assists Tourism Agencies in organizing surrogacy informational events, promoting ethical tourism."
+4,17,Directed,Encourage,Administrative Staff supports IVF Travel by coordinating schedules and resources for smooth clinic tours.
+4,18,Directed,Allow,"Administrative Staff collaborates with Tammuz Family to streamline client communication, facilitating smoother transactions."
+4,20,Directed,Allow,"Administrative Staff permits Local Authorities to audit clinic records, ensuring accountability in surrogacy operations."
+4,21,Directed,Encourage,"Administrative Staff assists Health Ministry by maintaining accurate health records, aiding in the monitoring of surrogate health standards."
+4,25,Directed,Encourage,Administrative Staff supports UNCRC guidelines by organizing record-keeping for surrogate-related child welfare cases.
+4,26,Directed,Allow,"Administrative Staff allows media limited access to surrogacy statistics, maintaining transparency while respecting privacy."
+4,29,Directed,Encourage,Administrative Staff encourages Intended Parents to attend clinic tours for a clearer understanding of the process.
+4,33,Directed,Allow,"Administrative Staff allows families of surrogates access to visit schedules, ensuring family support during contracts."
+4,33,Directed,Request,"Administrative Staff requests families of surrogates adhere to visitation guidelines, maintaining a supportive environment."
+4,39,Directed,Allow,"Administrative Staff coordinates IVF schedules, ensuring proper timing and availability for all related procedures. / Administrative Staff organizes IVF-related logistics, coordinating between medical teams and clients."
+4,39,Directed,Encourage,"Administrative Staff supports IVF procedures by coordinating staff schedules, ensuring smooth clinic operations. / Administrative Staff supports IVF procedures by handling documentation efficiently, aiding in seamless operational flow."
+5,1,Directed,Demand,"Marketing Team demands BioTexCom update facilities to align with advertised quality and safety standards, ensuring brand consistency."
+5,1,Directed,Encourage,"Marketing Team supports BioTexCom Clinic by promoting its ethical practices in surrogacy, attracting global clients."
+5,7,Directed,Encourage,"Marketing Team encourages surrogate network members to share positive testimonials for public outreach campaigns. / Marketing Team supports surrogate networks by promoting surrogates' stories, enhancing transparency and empathy in marketing."
+5,8,Directed,Encourage,"Marketing Team highlights experienced surrogates' testimonials in promotional materials, building trust with clients. / Marketing Team highlights stories of experienced surrogates to attract clients, showcasing surrogate expertise and resilience."
+5,14,Directed,Encourage,"Marketing Team promotes Human Rights WatchÕs findings on ethical surrogacy, enhancing BioTexComÕs image as a responsible provider."
+5,16,Directed,Request,Marketing Team requests Tourism Agencies coordinate promotional efforts with the clinicÕs messaging.
+5,17,Directed,Encourage,"Marketing Team facilitates IVF Travel by promoting travel packages designed for surrogacy clients, encouraging global reach. / Marketing Team promotes IVF Travel services as part of BioTexComÕs comprehensive client care package."
+5,18,Directed,Encourage,Marketing Team supports Tammuz FamilyÕs international efforts by providing branded materials.
+5,19,Directed,Encourage,"Marketing Team encourages Egg Donor & Surrogacy Institute to share donor stories, providing a human touch to promotional content."
+5,20,Directed,Request,"Marketing Team requests Local Authorities support surrogate protection initiatives, promoting community trust."
+5,22,Directed,Request,"Marketing Team requests Family Law Code allow representation of surrogate welfare in advertising, reflecting client interests."
+5,26,Directed,Allow,"Marketing Team collaborates with media outlets to promote IVF success stories, shaping positive public opinion."
+5,29,Directed,Allow,"Marketing Team allows Intended Parents network to provide feedback on marketing materials, ensuring sensitive messaging."
+5,35,Directed,Allow,"Marketing Team allows media to interview select clinic staff, promoting transparency around BioTexCom's operations."
+5,35,Directed,Request,"Marketing Team requests media feature surrogacy stories that focus on ethical successes, improving public trust."
+5,39,Directed,Encourage,"Marketing Team encourages the use of IVF technology in promotional content, showcasing it as a reliable pathway to parenthood. / Marketing Team showcases IVF technologyÕs role in successful surrogacy, emphasizing scientific advancements."
+6,1,Directed,Encourage,"Support Staff supports BioTexCom by assisting with logistics during peak seasons, facilitating smoother operations."
+6,7,Directed,Encourage,"Support Staff encourages surrogate network participation in wellness programs, promoting health maintenance."
+6,17,Directed,Request,"Support Staff requests IVF Travel provide clear schedules, aiding in clinic coordination for client visits."
+6,19,Directed,Encourage,Support Staff supports Egg Donor & Surrogacy Institute by assisting with donor coordination.
+6,33,Directed,Allow,"Support Staff allows surrogate families access to support resources, enhancing family care for surrogates."
+7,4,Directed,Encourage,Surrogate network facilitates communication with Administrative Staff to ensure timely updates on surrogate schedules.
+7,5,Directed,Demand,"Surrogate network demands Marketing represent surrogates' voices accurately, avoiding exaggerated promotional content."
+7,8,Directed,Encourage,Surrogate network supports experienced surrogates by providing a collaborative environment for sharing experiences.
+7,12,Directed,Allow,"Surrogate network collaborates with NGOs to advocate for surrogate rights, fostering a supportive community. / Surrogate network partners with NGOs to advocate for surrogate welfare, pooling resources to support health and legal rights."
+7,12,Directed,Encourage,Surrogate network encourages NGOs to provide educational resources for surrogates on contract rights.
+7,16,Directed,Encourage,"Surrogate network facilitates tourism collaborations, welcoming international clients with organized surrogate support."
+7,16,Directed,Request,"Surrogate network recommends Tourism Agencies provide clear information on surrogate rights, improving client understanding."
+7,18,Directed,Allow,"Surrogate network allows Tammuz Family to access feedback for improving international surrogacy services. / Surrogate network allows Tammuz Family to gather feedback on surrogate support needs, helping refine service offerings."
+7,19,Directed,Request,Surrogate network requests Egg Donor & Surrogacy Institute ensure ethical treatment of egg donors within surrogacy.
+7,21,Directed,Demand,"Surrogate network demands Health Ministry enforce mental health support requirements, addressing emotional impacts of surrogacy. / Surrogate network demands Health Ministry ensure that surrogates have access to comprehensive healthcare support."
+7,22,Directed,Demand,Surrogate network demands Family Law Code strengthen legal rights for surrogates.
+7,22,Directed,Encourage,Surrogate network advocates for Family Law Code to incorporate modern IVF technology-related protections for surrogates.
+7,22,Directed,Request,"Surrogate network suggests Family Law Code recognize the unique needs of surrogates, adding specific protections."
+7,25,Directed,Allow,Surrogate network partners with UNCRC to advocate for child welfare standards in surrogacy arrangements.
+7,27,Directed,Request,"Surrogate network requests ECHRÕs advocacy for clearer international surrogacy laws, helping protect surrogate rights."
+7,33,Directed,Demand,"Surrogate network demands families of surrogates support them with childcare resources, recognizing extended family dynamics."
+7,33,Directed,Encourage,Surrogate network supports families of surrogates by offering resources for managing the emotional aspects of the surrogacy process.
+7,35,Directed,Request,"Surrogate network requests media cover issues related to surrogate autonomy, addressing public misconceptions."
+7,39,Directed,Demand,Surrogate network demands that IVF technology providers offer comprehensive health check-ups pre- and post-IVF.
+7,39,Directed,Encourage,"Surrogate network educates surrogates on the medical aspects of IVF, empowering them with knowledge about potential risks and outcomes."
+7,39,Directed,Request,"Surrogate network requests IVF clinics provide surrogates with information on the medical risks associated with IVF procedures. / Surrogate network requests IVF clinics provide surrogates with detailed health protocols, prioritizing informed consent."
+8,3,Directed,Request,Experienced surrogates request Legal Team simplify contract language for better understanding of rights and obligations.
+8,12,Directed,Request,"Experienced surrogates request NGO support for mental health initiatives, acknowledging the psychological toll of repeated surrogacy contracts."
+8,14,Directed,Request,"Experienced surrogates inform Human Rights Watch about the emotional challenges of repeat IVF, providing firsthand insights."
+8,22,Directed,Encourage,"Experienced surrogates encourage Family Law Code updates to reflect protections for experienced surrogates, particularly those involved in multiple contracts."
+8,22,Directed,Request,"Experienced surrogates request Family Law Code update to reflect modern surrogacy practices, ensuring current protections."
+8,25,Directed,Request,Experienced surrogates request that UNCRC provide guidelines on surrogate protection within international child welfare.
+8,26,Directed,Allow,"Experienced surrogates collaborate with media to share nuanced perspectives, illustrating the reality of surrogacy experiences."
+8,26,Directed,Encourage,"Experienced surrogates advocate through media for fairer treatment, sharing stories about the demands of IVF."
+8,35,Directed,Encourage,Experienced surrogates advocate through media for better physical and mental health support systems.
+8,39,Directed,Allow,"Experienced surrogates allow IVF technology integration, accepting the physical implications as part of the surrogacy process."
+8,39,Directed,Request,"Experienced surrogates request additional health support from IVF providers, due to repeated procedural demands."
+9,3,Directed,Encourage,Conflict Resilient Surrogates uses Encourage affordance towards Legal and Compliance Team regarding surrogacy and related regulations.
+9,6,Directed,Demand,Conflict Resilient Surrogates uses Demand affordance towards Limited Support Staff regarding surrogacy and related regulations.
+9,13,Directed,Discourage,Conflict Resilient Surrogates uses Discourage affordance towards La Strada Ukraine regarding surrogacy and related regulations.
+9,19,Directed,Encourage,Conflict Resilient Surrogates uses Encourage affordance towards Egg Donor & Surrogacy Institute regarding surrogacy and related regulations.
+9,20,Directed,Refuse,Conflict Resilient Surrogates uses Refuse affordance towards Ukrainian Legal Frameworks regarding surrogacy and related regulations.
+9,21,Directed,Request,Conflict Resilient Surrogates uses Request affordance towards Health Ministry Regulations regarding surrogacy and related regulations.
+9,22,Directed,Demand,Conflict Resilient Surrogates uses Demand affordance towards Family Law Code regarding surrogacy and related regulations.
+9,31,Directed,Request,Conflict Resilient Surrogates uses Request affordance towards Heterosexual Couples regarding surrogacy and related regulations.
+10,39,Directed,Directed,Demand
+11,2,Directed,Allow,First Time Surrogates uses Allow affordance towards Medical Staff regarding surrogacy and related regulations.
+11,5,Directed,Discourage,First Time Surrogates uses Discourage affordance towards Marketing and International Liaisons regarding surrogacy and related regulations.
+11,22,Directed,Demand,First Time Surrogates uses Demand affordance towards Family Law Code regarding surrogacy and related regulations.
+11,24,Directed,Refuse,First Time Surrogates uses Refuse affordance towards Local Authorities regarding surrogacy and related regulations.
+11,25,Directed,Discourage,First Time Surrogates uses Discourage affordance towards International Legal Frameworks regarding surrogacy and related regulations.
+11,32,Directed,Encourage,First Time Surrogates uses Encourage affordance towards Single Parent regarding surrogacy and related regulations.
+11,36,Directed,Request,First Time Surrogates uses Request affordance towards New York Times regarding surrogacy and related regulations.
+11,38,Directed,Request,First Time Surrogates uses Request affordance towards Al Jazeera regarding surrogacy and related regulations.
+12,3,Directed,Demand,"NGOs monitor Legal Team practices, ensuring contracts align with ethical standards to protect surrogates."
+12,4,Directed,Allow,"NGOs allow Administrative Staff to assist in collecting data on surrogate experiences, supporting advocacy reports."
+12,5,Directed,Encourage,"NGOs encourage Marketing Team to include surrogate testimonials in promotional materials, emphasizing ethical transparency."
+12,7,Directed,Allow,"NGOs partner with surrogate networks to provide training on rights and health, supporting surrogatesÕ informed consent."
+12,16,Directed,Allow,"NGOs collaborate with Tourism Agencies to create ethical travel guidelines for surrogacy clients, ensuring responsible practices. / NGOs collaborate with Tourism Agencies to create resources for ethically responsible surrogacy tourism."
+12,17,Directed,Encourage,"NGOs support IVF Travel by advising on ethical travel practices for surrogates, ensuring dignity and respect in travel logistics."
+12,17,Directed,Request,"NGOs request IVF Travel support ethical travel arrangements, ensuring surrogate comfort and security."
+12,22,Directed,Encourage,"NGOs advocate for Family Law Code updates, emphasizing surrogate and child rights in the context of IVF surrogacy."
+12,22,Directed,Request,"NGOs recommend that Family Law Code enhance protections for surrogates, particularly regarding health and consent in IVF-based surrogacy."
+12,25,Directed,Demand,"NGOs demand UNCRC provide clear child welfare guidelines for surrogate-born children, particularly in international surrogacy cases."
+12,26,Directed,Encourage,"NGOs support media by providing data on surrogate experiences, contributing to comprehensive surrogacy coverage."
+12,26,Directed,Request,"NGOs request media focus on surrogate rights, supporting efforts to combat exploitation in fertility tourism."
+12,29,Directed,Encourage,"NGOs encourage intended parents to select clinics that follow ethical practices, supporting responsible family-building."
+12,33,Directed,Demand,"NGOs demand families of surrogates offer post-contract support to surrogates, reinforcing family care."
+12,39,Directed,Demand,"NGOs monitor IVF technology to ensure it aligns with ethical standards in health and surrogate safety. / NGOs monitor IVF technology for compliance with health and ethical standards, ensuring surrogate safety and welfare."
+12,39,Directed,Discourage,"NGOs critique IVF technology risks, raising concerns about potential exploitation of economically vulnerable surrogates."
+12,39,Directed,Encourage,NGOs support IVF as part of surrogacy but advocate for ethical oversight to ensure surrogate health is prioritized.
+13,2,Directed,Encourage,La Strada Ukraine uses Encourage affordance towards Medical Staff regarding surrogacy and related regulations.
+13,5,Directed,Refuse,La Strada Ukraine uses Refuse affordance towards Marketing and International Liaisons regarding surrogacy and related regulations.
+13,9,Directed,Request,La Strada Ukraine uses Request affordance towards Conflict Resilient Surrogates regarding surrogacy and related regulations.
+13,19,Directed,Allow,La Strada Ukraine uses Allow affordance towards Egg Donor & Surrogacy Institute regarding surrogacy and related regulations.
+13,20,Directed,Allow,La Strada Ukraine uses Allow affordance towards Ukrainian Legal Frameworks regarding surrogacy and related regulations.
+13,26,Directed,Demand,La Strada Ukraine uses Demand affordance towards UNCRC regarding surrogacy and related regulations.
+13,26,Directed,Discourage,La Strada Ukraine uses Discourage affordance towards UNCRC regarding surrogacy and related regulations.
+13,38,Directed,Discourage,La Strada Ukraine uses Discourage affordance towards Al Jazeera regarding surrogacy and related regulations.
+14,1,Directed,Demand,"Human Rights Watch demands BioTexCom provide data on surrogate health impacts, increasing transparency in medical practices."
+14,3,Directed,Discourage,"Human Rights Watch critiques Legal TeamÕs contract structures, highlighting areas where surrogate rights could be strengthened."
+14,4,Directed,Demand,Human Rights Watch monitors Administrative Staff procedures to ensure that surrogate records are handled ethically.
+14,5,Directed,Demand,Human Rights Watch demands Marketing Team reduce exploitative language in surrogate-related promotions.
+14,5,Directed,Request,"Human Rights Watch requests Marketing avoid exploitative language in surrogacy promotions, advocating for ethical communication."
+14,7,Directed,Demand,Human Rights Watch demands surrogate network establish a grievance system for surrogates to report mistreatment.
+14,12,Directed,Allow,"Human Rights Watch partners with NGOs to address ethical surrogacy concerns, combining resources for effective advocacy."
+14,16,Directed,Demand,"Human Rights Watch demands Tourism Agencies promote only ethically certified IVF clinics, ensuring client awareness."
+14,17,Directed,Demand,"Human Rights Watch monitors IVF Travel practices, ensuring no exploitation or misinformation in surrogacy travel logistics."
+14,19,Directed,Demand,"Human Rights Watch monitors Egg Donor & Surrogacy Institute practices, ensuring ethical handling of egg donation processes. / Human Rights Watch demands Egg Donor & Surrogacy Institute follow ethical guidelines for all reproductive services."
+14,22,Directed,Request,"Human Rights Watch lobbies Family Law Code to strengthen legal protections for surrogates, addressing gaps in existing laws."
+14,25,Directed,Encourage,"Human Rights Watch advocates for UNCRCÕs involvement in protecting children born via surrogacy, addressing ethical concerns."
+14,26,Directed,Encourage,Human Rights Watch encourages media to investigate the impact of IVF technology on surrogate health.
+14,27,Directed,Request,Human Rights Watch requests ECHR investigate potential human rights issues related to IVF technology in surrogacy.
+14,29,Directed,Encourage,"Human Rights Watch advocates for intended parents to prioritize surrogate rights when entering contracts, fostering ethical relationships."
+14,33,Directed,Allow,"Human Rights Watch allows families of surrogates to share perspectives in advocacy reports, adding depth to ethical discussions."
+14,35,Directed,Allow,"Human Rights Watch collaborates with media to highlight surrogacy challenges, raising awareness of ethical concerns."
+14,39,Directed,Discourage,"Human Rights Watch critiques IVF use in surrogacy, questioning the ethical implications and surrogate health risks."
+14,39,Directed,Request,"Human Rights Watch investigates IVF technologyÕs long-term effects on surrogate health and well-being, ensuring ethical standards."
+15,26,Directed,Demand,"Stop Surrogacy Now demands media highlight alternatives to surrogacy, aiming to reduce reliance on IVF-based surrogacy."
+16,1,Directed,Demand,Tourism Agencies demand BioTexCom guarantee language support for non-native clients throughout the IVF process.
+16,4,Directed,Allow,Tourism Agencies coordinate with Administrative Staff to ensure that client schedules align with surrogate availability.
+16,5,Directed,Encourage,Tourism Agencies encourage Marketing Team to highlight the safety measures in place for international clients.
+16,5,Directed,Request,"Tourism Agencies request Marketing highlight the international accessibility of IVF services, attracting global clients."
+16,7,Directed,Demand,Tourism Agencies demand surrogate networkÕs assistance in promoting cross-cultural understanding for international clients.
+16,12,Directed,Allow,Tourism Agencies allow NGOs to inspect promotional content for ethical compliance in surrogacy tourism.
+16,12,Directed,Request,Tourism Agencies request that NGOs provide guidance on ethically navigating cross-border surrogacy.
+16,14,Directed,Request,Tourism Agencies request Human Rights Watch validate the ethical standards of clinics they promote internationally.
+16,18,Directed,Allow,"Tourism Agencies collaborate with Tammuz Family to streamline IVF travel logistics for clients, ensuring smooth arrangements."
+16,18,Directed,Encourage,"Tourism Agencies encourage Tammuz Family to integrate cultural sensitivity training for staff, enhancing international client relations."
+16,20,Directed,Allow,"Tourism Agencies permit Local Authorities to review travel arrangements, ensuring compliance with local laws."
+16,22,Directed,Allow,"Tourism Agencies allow Family Law Code to review surrogacy travel policies, ensuring regulatory compliance."
+16,25,Directed,Allow,"Tourism Agencies allow UNCRC to audit promotional materials, ensuring alignment with child welfare policies."
+16,26,Directed,Allow,"Tourism Agencies allow media access to client testimonials, helping raise awareness about the experiences in IVF surrogacy."
+16,27,Directed,Request,"Tourism Agencies request ECHR guidelines for cross-border surrogacy practices, ensuring legal compliance for clients."
+16,33,Directed,Allow,"Tourism Agencies allow surrogate families to accompany surrogates in international travel when possible, acknowledging family support importance."
+16,35,Directed,Encourage,"Tourism Agencies support media efforts to highlight ethical surrogacy options, promoting responsible surrogacy tourism."
+16,39,Directed,Demand,"Tourism Agencies demand IVF clinics provide multilingual support for international clients, ensuring seamless communication."
+16,39,Directed,Encourage,"Tourism Agencies encourage IVF use in their marketing to attract international clients, promoting it as an effective fertility solution. / Tourism Agencies emphasize the role of IVF technology in successful family-building, marketing it as a key feature in fertility tourism. / Tourism Agencies promote IVF technology as a transformative tool for family creation, boosting interest in fertility tourism."
+17,3,Directed,Demand,IVF Travel demands Legal Team clarify international surrogate travel rights in contracts.
+17,5,Directed,Encourage,"IVF Travel assists Marketing Team by promoting travel options, emphasizing the clinicÕs accessibility to international clients."
+17,7,Directed,Allow,"IVF Travel coordinates with surrogate network to ensure smooth travel arrangements for surrogates, minimizing logistical challenges."
+17,8,Directed,Encourage,"IVF Travel encourages experienced surrogates to share travel insights, helping improve travel arrangements for others. / IVF Travel supports experienced surrogates by providing tailored travel accommodations, minimizing travel stress."
+17,12,Directed,Allow,"IVF Travel collaborates with NGOs to establish ethical travel guidelines for surrogates, ensuring their comfort and dignity."
+17,14,Directed,Encourage,"IVF Travel supports Human Rights Watch by adhering to ethical travel guidelines, promoting responsible surrogacy tourism. / IVF Travel supports Human Rights Watch by following best practices in managing surrogate travel logistics."
+17,22,Directed,Allow,"IVF Travel permits Family Law Code to influence their procedures, ensuring compliance with travel documentation standards."
+17,22,Directed,Demand,"IVF Travel complies with Family Law Code requirements to provide legal travel documentation for surrogates, ensuring smooth cross-border procedures."
+17,29,Directed,Encourage,"IVF Travel promotes intended parents network services by offering comprehensive travel packages, emphasizing ethical practices."
+17,33,Directed,Encourage,"IVF Travel facilitates family visits during the surrogacy process, enhancing emotional support for surrogates."
+17,35,Directed,Allow,"IVF Travel collaborates with media to provide transparency on surrogate travel arrangements, ensuring accountability."
+17,39,Directed,Encourage,"IVF Travel facilitates transportation for IVF treatments, managing travel logistics for clients and surrogates. / IVF Travel promotes IVF technology advancements to clients, emphasizing safety and success rates in surrogacy arrangements."
+18,3,Directed,Request,Tammuz Family suggests Legal Team develop culturally sensitive contracts for international surrogacy clients.
+18,4,Directed,Encourage,"Tammuz Family encourages Administrative Staff to manage client documents securely, promoting professionalism."
+18,5,Directed,Encourage,Tammuz Family supports Marketing in creating culturally inclusive advertisements for international clients. / Tammuz Family encourages Marketing Team to adopt culturally sensitive language in international IVF promotions.
+18,7,Directed,Encourage,"Tammuz Family encourages surrogate networks to participate actively, supporting diverse client demographics. / Tammuz Family supports surrogate network by providing resources for advocacy, promoting surrogatesÕ legal awareness."
+18,7,Directed,Request,"Tammuz Family requests surrogate network provide input on improving client-surrogate relationships, fostering mutual respect."
+18,12,Directed,Allow,"Tammuz Family collaborates with NGOs to promote ethical surrogacy practices, aligning with international standards."
+18,14,Directed,Allow,Tammuz Family partners with Human Rights Watch to ensure their surrogacy practices meet ethical standards.
+18,14,Directed,Request,Tammuz Family requests Human Rights Watch provide ethical certifications for recommended clinics.
+18,16,Directed,Allow,Tammuz Family coordinates with Tourism Agencies to create packages for international clients seeking surrogacy services.
+18,21,Directed,Allow,"Tammuz Family consults Health Ministry on best practices for surrogate health, promoting safe international surrogacy."
+18,22,Directed,Request,"Tammuz Family recommends Family Law Code expand protections for surrogate contracts, enhancing surrogate rights."
+18,25,Directed,Encourage,"Tammuz Family supports UNCRCÕs guidelines on ethical surrogacy, adapting their services to align with child welfare standards."
+18,26,Directed,Allow,"Tammuz Family allows media outlets to feature client stories, enhancing transparency and visibility of surrogacy options."
+18,26,Directed,Encourage,"Tammuz Family encourages media to share successful surrogacy outcomes, aiming to improve public perception. / Tammuz Family highlights positive media coverage about surrogacy, reinforcing the narrative of ethical practices within the industry."
+18,27,Directed,Request,"Tammuz Family recommends ECHR guidelines be simplified for intended parents, aiding in understanding of international surrogacy laws."
+18,33,Directed,Request,"Tammuz Family requests families of surrogates provide emotional support, recognizing the psychological demands of surrogacy."
+18,35,Directed,Request,"Tammuz Family requests media to promote inclusive narratives on diverse families, enhancing public awareness of surrogacy options."
+18,39,Directed,Demand,"Tammuz Family demands accessible IVF services to support international clients, ensuring a streamlined surrogacy process."
+19,1,Directed,Demand,"Egg Donor & Surrogacy Institute demands BioTexCom improve consent procedures for egg donors, ensuring informed participation."
+19,7,Directed,Demand,"Egg Donor & Surrogacy Institute demands surrogate network promote ethical egg donation practices within their community. / Egg Donor & Surrogacy Institute demands surrogate network members understand ethical egg donation, encouraging informed decision-making."
+19,17,Directed,Encourage,"Egg Donor & Surrogacy Institute assists IVF Travel by coordinating with donors, ensuring travel aligns with medical needs."
+19,26,Directed,Allow,Egg Donor & Surrogacy Institute collaborates with media to promote awareness about ethical egg donation practices and health risks.
+19,26,Directed,Encourage,"Egg Donor & Surrogacy Institute advocates through media for safe IVF practices, highlighting ethical egg donation standards."
+19,33,Directed,Encourage,Egg Donor & Surrogacy Institute encourages families of surrogates to educate surrogates on health practices post-donation.
+19,33,Directed,Request,"Egg Donor & Surrogacy Institute requests families of surrogates share feedback on donor experience, informing procedural improvements."
+19,35,Directed,Encourage,"Egg Donor & Surrogacy Institute encourages media coverage on egg donationÕs role in surrogacy, highlighting ethical considerations."
+19,39,Directed,Allow,"Egg Donor & Surrogacy Institute allows IVF clinics to conduct genetic screening on egg donors, ensuring compatibility."
+19,39,Directed,Encourage,"Egg Donor & Surrogacy Institute supports IVF technology as essential to surrogacy, collaborating to ensure compatible egg-donation processes."
+20,12,Directed,Allow,"Local Authorities allow NGOs access to public records on health impacts of surrogacy, aiding in advocacy efforts."
+20,16,Directed,Encourage,Local Authorities support Tourism Agencies by ensuring safety protocols for international clients visiting surrogacy clinics.
+20,22,Directed,Demand,"Local Authorities demand Family Law Code prioritize local laws in surrogacy contracts, ensuring legal harmony."
+20,39,Directed,Demand,"Local Authorities regulate IVF technology use within clinics, setting standards for safety and ethical practices."
+21,1,Directed,Request,"Health Ministry recommends BioTexCom maintain regular health audits, emphasizing safety in IVF and surrogacy practices."
+21,4,Directed,Encourage,"Health Ministry facilitates Administrative Staff training in health protocols, enhancing clinic operational standards."
+21,5,Directed,Encourage,"Health Ministry supports Marketing Team by providing data on IVF health standards, which is used to reassure prospective clients."
+21,7,Directed,Demand,Health Ministry demands that surrogate networks offer regular health check-ins for surrogates to prevent medical complications.
+21,8,Directed,Encourage,Health Ministry supports experienced surrogates by implementing health guidelines that consider the risks of repeated procedures.
+21,12,Directed,Allow,"Health Ministry collaborates with NGOs to ensure surrogate health standards are maintained, supporting comprehensive care. / Health Ministry partners with NGOs to promote surrogate health education, ensuring surrogates are informed about IVF risks."
+21,16,Directed,Encourage,"Health Ministry guides Tourism Agencies on health requirements in surrogacy travel, ensuring safe practices for clients and surrogates."
+21,27,Directed,Encourage,"Health Ministry supports ECHRÕs standards, incorporating their recommendations into national surrogacy health policies."
+21,39,Directed,Demand,"Health Ministry ensures that IVF procedures meet health standards, safeguarding both surrogates and prospective children."
+21,39,Directed,Encourage,"Health Ministry supports IVF technology advancements, ensuring updated practices for safe surrogacy procedures."
+21,39,Directed,Request,Health Ministry requests IVF clinics maintain transparency in their procedures to ensure adherence to health standards.
+22,3,Directed,Demand,"Family Law Code demands Legal Team align surrogacy contracts with local laws, ensuring compliance with legal standards."
+22,5,Directed,Allow,"Family Law Code allows Marketing Team to reference legal surrogacy protections in advertising, promoting a sense of security for clients."
+22,8,Directed,Request,"Family Law Code recommends experienced surrogates receive additional legal protections, acknowledging the cumulative risks of repeat procedures."
+22,12,Directed,Allow,Family Law Code allows NGOs to provide educational sessions to surrogates on legal rights and responsibilities.
+22,14,Directed,Encourage,"Family Law Code endorses Human Rights Watch guidelines, aligning surrogacy laws with ethical standards for surrogate care."
+22,17,Directed,Demand,Family Law Code regulates IVF TravelÕs surrogate-related travel arrangements to ensure compliance with legal standards. / Family Law Code demands IVF Travel follow regulations that protect surrogates during international travel.
+22,17,Directed,Request,"Family Law Code recommends IVF Travel follow legal procedures for surrogate travel, aligning with international surrogacy laws. / Family Law Code recommends IVF Travel establish ethical travel policies, ensuring surrogatesÕ safety and dignity."
+22,20,Directed,Demand,"Family Law Code demands Local Authorities enforce compliance for clinics using IVF technology, safeguarding public health."
+22,26,Directed,Demand,"Family Law Code demands media coverage on new surrogacy laws, ensuring public understanding of updated regulations."
+22,26,Directed,Encourage,"Family Law Code encourages media to accurately represent the legal aspects of surrogacy, educating the public on legal complexities."
+22,29,Directed,Demand,"Family Law Code regulates intended parentsÕ rights, emphasizing legal boundaries in surrogacy agreements."
+22,29,Directed,Encourage,"Family Law Code guides intended parents on their legal rights and responsibilities, creating a clear framework for surrogacy."
+22,33,Directed,Encourage,Family Law Code encourages families of surrogates to participate in support programs for surrogates post-birth.
+22,39,Directed,Allow,"Family Law Code allows IVF to be included in surrogacy contracts under strict conditions, protecting surrogate rights."
+22,39,Directed,Demand,"Family Law Code oversees IVF implementation in surrogacy contracts, ensuring legal clarity on procedure-related risks."
+23,9,Directed,Permit,Civil Code uses Permit affordance towards Conflict Resilient Surrogates regarding surrogacy and related regulations.
+23,19,Directed,Demand,Civil Code uses Demand affordance towards Egg Donor & Surrogacy Institute regarding surrogacy and related regulations.
+23,22,Directed,Allow,Civil Code uses Allow affordance towards Family Law Code regarding surrogacy and related regulations.
+23,28,Directed,Encourage,Civil Code uses Encourage affordance towards Home Country Adoption Codes regarding surrogacy and related regulations.
+23,32,Directed,Encourage,Civil Code uses Encourage affordance towards Single Parent regarding surrogacy and related regulations.
+23,34,Directed,Encourage,Civil Code uses Encourage affordance towards Surrogate-Born Babies regarding surrogacy and related regulations.
+23,37,Directed,Demand,Civil Code uses Demand affordance towards BBC News regarding surrogacy and related regulations.
+23,38,Directed,Allow,Civil Code uses Allow affordance towards Al Jazeera regarding surrogacy and related regulations.
+24,9,Directed,Allow,Local Authorities uses Allow affordance towards Conflict Resilient Surrogates regarding surrogacy and related regulations.
+24,13,Directed,Permit,Local Authorities uses Permit affordance towards La Strada Ukraine regarding surrogacy and related regulations.
+24,19,Directed,Demand,Local Authorities uses Demand affordance towards Egg Donor & Surrogacy Institute regarding surrogacy and related regulations.
+24,20,Directed,Permit,Local Authorities uses Permit affordance towards Ukrainian Legal Frameworks regarding surrogacy and related regulations.
+24,26,Directed,Permit,Local Authorities uses Permit affordance towards UNCRC regarding surrogacy and related regulations.
+24,28,Directed,Request,Local Authorities uses Request affordance towards Home Country Adoption Codes regarding surrogacy and related regulations.
+24,33,Directed,Permit,Local Authorities uses Permit affordance towards Families of Surrogates regarding surrogacy and related regulations.
+24,33,Directed,Request,Local Authorities uses Request affordance towards Families of Surrogates regarding surrogacy and related regulations.
+25,1,Directed,Allow,"UNCRC allows BioTexCom to operate under specific child welfare guidelines, balancing operational freedom with ethical accountability."
+25,3,Directed,Encourage,"UNCRC encourages Legal Team to prioritize child welfare in contract terms, addressing potential ethical dilemmas in surrogacy."
+25,5,Directed,Allow,"UNCRC allows Marketing Team to use child welfare principles in promotional material, emphasizing ethical surrogacy practices."
+25,12,Directed,Encourage,UNCRC supports NGOsÕ efforts to ensure surrogate-born childrenÕs rights are protected within international frameworks.
+25,16,Directed,Demand,UNCRC demands Tourism Agencies prioritize ethical standards in promotional materials for international surrogacy.
+25,17,Directed,Request,UNCRC requests IVF Travel offer accommodations that prioritize family unity and child welfare in international surrogacy.
+25,21,Directed,Request,UNCRC recommends Health Ministry implement policies prioritizing childrenÕs welfare in surrogacy cases.
+25,26,Directed,Encourage,"UNCRC encourages media to educate the public on ethical concerns in surrogacy involving IVF, focusing on child welfare."
+25,39,Directed,Demand,"UNCRC oversees IVF clinics to ensure compliance with child protection guidelines, especially in cases of international surrogacy."
+25,39,Directed,Refuse,"UNCRC restricts certain IVF practices, emphasizing child welfare to prevent potential ethical issues."
+25,39,Directed,Request,"UNCRC recommends IVF technology providers adhere to strict health standards, particularly in procedures affecting childrenÕs futures."
+26,1,Directed,Request,"Media investigates BioTexCom's practices, publishing reports that influence public perception and transparency in surrogacy."
+26,4,Directed,Request,"Media requests Administrative Staff provide data on surrogate demographics, helping inform the public about who participates in surrogacy."
+26,7,Directed,Encourage,"Media advocates for surrogate networks by highlighting their efforts to protect surrogate rights, building public support."
+26,12,Directed,Encourage,"Media assists NGOs by providing a platform to broadcast surrogates' rights issues, amplifying ethical concerns."
+26,14,Directed,Demand,Media demands Human Rights Watch provide detailed reports on IVF technologyÕs ethical implications within surrogacy.
+26,17,Directed,Encourage,"Media supports IVF Travel by covering travel logistics in surrogacy, highlighting the importance of ethical practices. / Media highlights IVF Travel's role in facilitating cross-border surrogacy journeys, illustrating ethical considerations in travel."
+26,20,Directed,Demand,"Media demands Local Authorities enforce stricter regulations on surrogacy clinics, emphasizing public safety and ethics. / Media demands Local Authorities enforce regulations on surrogacy clinics, addressing community safety concerns."
+26,25,Directed,Encourage,Media encourages UNCRC to enforce more stringent child welfare measures in IVF surrogacy practices.
+26,27,Directed,Encourage,"Media encourages ECHR to publish updated guidelines on ethical surrogacy, addressing the role of IVF in child welfare. / Media encourages ECHR to standardize international laws around surrogate rights, ensuring consistent protections globally."
+26,29,Directed,Encourage,"Media encourages intended parents to thoroughly vet clinics offering IVF, promoting ethical decision-making."
+26,33,Directed,Encourage,"Media encourages families of surrogates to share experiences, promoting transparency about surrogacyÕs family impact."
+26,39,Directed,Encourage,"Media advocates for transparency in IVF technologyÕs risks, emphasizing surrogate health in surrogacy reports. / Media showcases advancements in IVF technology, exploring both positive outcomes and ethical implications."
+26,39,Directed,Request,"Media reports on the use of IVF technology in surrogacy, focusing on both its successes and ethical challenges."
+27,1,Directed,Request,"ECHR recommends BioTexCom provide clearer consent documentation in IVF procedures, protecting surrogate autonomy. / ECHR suggests BioTexCom adopt more transparent communication channels, improving trust in surrogacy processes."
+27,4,Directed,Demand,ECHR inspects Administrative StaffÕs handling of surrogate records to ensure ethical data management practices.
+27,5,Directed,Request,"ECHR recommends Marketing adopt ethical communication standards, avoiding exploitation of vulnerable populations."
+27,7,Directed,Encourage,ECHR supports surrogate networkÕs advocacy by providing legal resources for surrogates facing international legal challenges.
+27,12,Directed,Encourage,ECHR supports NGOsÕ advocacy by sharing insights on international surrogacy rights and legal precedents.
+27,14,Directed,Allow,"ECHR collaborates with Human Rights Watch to monitor cross-border surrogacy practices, focusing on ethical and legal standards."
+27,16,Directed,Demand,"ECHR monitors Tourism Agencies to ensure ethical promotion of cross-border surrogacy, preventing misinformation."
+27,17,Directed,Demand,ECHR regulates IVF TravelÕs client services to ensure that all arrangements respect surrogate and client rights.
+27,21,Directed,Request,"ECHR recommends Health Ministry improve health guidelines for surrogates, prioritizing mental health services."
+27,22,Directed,Encourage,"ECHR supports Family Law Code updates that protect surrogate and child welfare, emphasizing international alignment."
+27,25,Directed,Request,"ECHR suggests UNCRC enhance protections for surrogate-born children, reflecting international ethical standards."
+27,26,Directed,Encourage,"ECHR encourages media to increase awareness of surrogates' legal rights, promoting informed surrogacy discussions."
+27,29,Directed,Encourage,"ECHR encourages intended parents to consult ethical guidelines, promoting responsible surrogacy choices."
+27,35,Directed,Request,"ECHR suggests media highlight stories focused on surrogate and child welfare, promoting a balanced public view. / ECHR requests that media accurately report on international surrogacy challenges, promoting informed public discourse."
+27,39,Directed,Demand,"ECHR regulates IVF technology use to ensure it adheres to human rights standards, focusing on ethical treatment of surrogates."
+27,39,Directed,Request,"ECHR requests IVF practices adhere to European ethical guidelines, ensuring respect for human rights in surrogacy."
+28,8,Directed,Refuse,Home Country Adoption Codes uses Refuse affordance towards Economically Motivated Surrogates regarding surrogacy and related regulations.
+28,14,Directed,Permit,Home Country Adoption Codes uses Permit affordance towards Human Rights Watch regarding surrogacy and related regulations.
+28,15,Directed,Encourage,Home Country Adoption Codes uses Encourage affordance towards Stop Surrogacy Now regarding surrogacy and related regulations.
+28,17,Directed,Demand,Home Country Adoption Codes uses Demand affordance towards IVF Travel regarding surrogacy and related regulations.
+28,18,Directed,Encourage,Home Country Adoption Codes uses Encourage affordance towards Tammuz Family regarding surrogacy and related regulations.
+28,32,Directed,Refuse,Home Country Adoption Codes uses Refuse affordance towards Single Parent regarding surrogacy and related regulations.
+28,36,Directed,Refuse,Home Country Adoption Codes uses Refuse affordance towards New York Times regarding surrogacy and related regulations.
+28,36,Directed,Request,Home Country Adoption Codes uses Request affordance towards New York Times regarding surrogacy and related regulations.
+29,7,Directed,Encourage,Intended Parents network supports surrogate networks by providing resources to enhance surrogate well-being throughout the process.
+29,8,Directed,Encourage,"Intended Parents network encourages experienced surrogates to share insights, fostering supportive relationships."
+29,14,Directed,Request,Intended Parents network requests Human Rights Watch provide ethical reviews of BioTexCom practices before contracting.
+29,16,Directed,Request,Intended Parents network recommends Tourism Agencies provide ethical guidance to clients considering international surrogacy.
+29,19,Directed,Demand,Intended Parents network demands that Egg Donor & Surrogacy Institute ensure ethical practices in egg donation.
+29,19,Directed,Encourage,"Intended Parents network supports Egg Donor & Surrogacy InstituteÕs ethical egg donation standards, aligning with family values."
+29,19,Directed,Request,"Intended Parents network recommends Egg Donor & Surrogacy Institute improve donor health screening, prioritizing donor safety."
+29,20,Directed,Request,Intended Parents network requests Local Authorities facilitate quicker parental rights documentation for surrogate-born children.
+29,26,Directed,Request,"Intended Parents network requests media highlight ethical surrogacy, guiding intended parents in responsible decision-making."
+29,33,Directed,Demand,"Intended Parents network demands families of surrogates provide emotional support post-delivery, ensuring surrogate well-being."
+29,33,Directed,Encourage,"Intended Parents network advocates for family-based support systems, emphasizing the role of family in surrogate care."
+29,39,Directed,Encourage,"Intended Parents network supports IVF technology as a means of achieving biological parenthood, often choosing clinics based on IVF success rates. / Intended Parents network promotes IVF technology as a scientifically sound means to achieve biological parenthood."
+29,39,Directed,Request,Intended Parents network requests IVF clinics offer transparent communication about the risks and benefits of IVF procedures.
+30,8,Directed,Permit,Queer Couples uses Permit affordance towards Economically Motivated Surrogates regarding surrogacy and related regulations.
+30,24,Directed,Allow,Queer Couples uses Allow affordance towards Local Authorities regarding surrogacy and related regulations.
+30,25,Directed,Request,Queer Couples uses Request affordance towards International Legal Frameworks regarding surrogacy and related regulations.
+30,26,Directed,Permit,Queer Couples uses Permit affordance towards UNCRC regarding surrogacy and related regulations.
+30,31,Directed,Demand,Queer Couples uses Demand affordance towards Heterosexual Couples regarding surrogacy and related regulations.
+30,32,Directed,Permit,Queer Couples uses Permit affordance towards Single Parent regarding surrogacy and related regulations.
+30,33,Directed,Refuse,Queer Couples uses Refuse affordance towards Families of Surrogates regarding surrogacy and related regulations.
+31,7,Directed,Discourage,Heterosexual Couples uses Discourage affordance towards Surrogate Mothers regarding surrogacy and related regulations.
+31,10,Directed,Refuse,Heterosexual Couples uses Refuse affordance towards Experienced Surrogates regarding surrogacy and related regulations.
+31,12,Directed,Encourage,Heterosexual Couples uses Encourage affordance towards Non-Governmental Organizations regarding surrogacy and related regulations.
+31,15,Directed,Refuse,Heterosexual Couples uses Refuse affordance towards Stop Surrogacy Now regarding surrogacy and related regulations.
+31,17,Directed,Discourage,Heterosexual Couples uses Discourage affordance towards IVF Travel regarding surrogacy and related regulations.
+31,20,Directed,Refuse,Heterosexual Couples uses Refuse affordance towards Ukrainian Legal Frameworks regarding surrogacy and related regulations.
+31,25,Directed,Encourage,Heterosexual Couples uses Encourage affordance towards International Legal Frameworks regarding surrogacy and related regulations.
+31,39,Directed,Allow,Heterosexual Couples uses Allow affordance towards IVF regarding surrogacy and related regulations.
+32,4,Directed,Permit,Single Parent uses Permit affordance towards Administrative Staff regarding surrogacy and related regulations.
+32,8,Directed,Refuse,Single Parent uses Refuse affordance towards Economically Motivated Surrogates regarding surrogacy and related regulations.
+32,15,Directed,Permit,Single Parent uses Permit affordance towards Stop Surrogacy Now regarding surrogacy and related regulations.
+32,17,Directed,Request,Single Parent uses Request affordance towards IVF Travel regarding surrogacy and related regulations.
+32,28,Directed,Demand,Single Parent uses Demand affordance towards Home Country Adoption Codes regarding surrogacy and related regulations.
+32,33,Directed,Refuse,Single Parent uses Refuse affordance towards Families of Surrogates regarding surrogacy and related regulations.
+32,36,Directed,Demand,Single Parent uses Demand affordance towards New York Times regarding surrogacy and related regulations.
+32,39,Directed,Request,Single Parent uses Request affordance towards IVF regarding surrogacy and related regulations.
+33,3,Directed,Request,"Families of surrogates request Legal Team provide accessible explanations of contract terms, ensuring understanding."
+33,5,Directed,Allow,"Families of surrogates allow Marketing Team to use anonymous testimonials in advertising, sharing positive experiences in a respectful manner."
+33,5,Directed,Encourage,"Families of surrogates support Marketing efforts by providing testimonials on surrogacyÕs impact, adding authenticity to promotions."
+33,12,Directed,Demand,"Families of surrogates demand NGOs advocate for post-surrogacy support for surrogates, ensuring ongoing well-being. / Families of surrogates demand that NGOs provide mental health support for surrogates post-birth."
+33,12,Directed,Encourage,Families of surrogates advocate through NGOs for better mental health support for surrogates post-birth.
+33,14,Directed,Encourage,"Families of surrogates support Human Rights WatchÕs advocacy by sharing experiences, amplifying calls for ethical reform."
+33,16,Directed,Request,Families of surrogates request Tourism Agencies to consider family perspectives in travel arrangements for surrogates.
+33,17,Directed,Encourage,"Families of surrogates encourage IVF Travel to consider family-friendly accommodations, supporting family inclusivity."
+33,18,Directed,Encourage,"Families of surrogates encourage Tammuz Family to prioritize family dynamics in surrogacy arrangements, emphasizing the surrogateÕs well-being."
+33,22,Directed,Request,Families of surrogates suggest Family Law Code amendments to enhance surrogate protection in IVF contracts.
+33,25,Directed,Allow,"Families of surrogates allow UNCRC to monitor post-surrogacy child welfare, supporting global child rights advocacy. / Families of surrogates allow UNCRC representatives to examine the impact of surrogacy on children, aiding in child welfare advocacy."
+33,26,Directed,Demand,"Families of surrogates demand media accurately portray the emotional challenges in surrogacy, reducing stigma."
+33,26,Directed,Request,"Families of surrogates request media depict the emotional experiences of surrogacy, providing a more humane perspective."
+33,29,Directed,Request,"Families of surrogates recommend Intended Parents network focus on emotional support, recognizing surrogates' family needs."
+33,39,Directed,Encourage,"Families of surrogates support IVF technology advancements by sharing feedback on health impacts, improving safety protocols."
+33,39,Directed,Request,"Families of surrogates request IVF clinics provide transparent information on medical procedures, aiding surrogate decision-making."
+34,11,Directed,Encourage,Surrogate-Born Babies uses Encourage affordance towards First Time Surrogates regarding surrogacy and related regulations.
+34,12,Directed,Request,Surrogate-Born Babies uses Request affordance towards Non-Governmental Organizations regarding surrogacy and related regulations.
+34,16,Directed,Request,Surrogate-Born Babies uses Request affordance towards Tourism Agencies regarding surrogacy and related regulations.
+34,18,Directed,Allow,Surrogate-Born Babies uses Allow affordance towards Tammuz Family regarding surrogacy and related regulations.
+34,25,Directed,Allow,Surrogate-Born Babies uses Allow affordance towards International Legal Frameworks regarding surrogacy and related regulations.
+34,37,Directed,Request,Surrogate-Born Babies uses Request affordance towards BBC News regarding surrogacy and related regulations.
+34,39,Directed,Request,Surrogate-Born Babies uses Request affordance towards IVF regarding surrogacy and related regulations.
+35,3,Directed,Discourage,"Media critiques Legal TeamÕs approach to contract transparency, advocating for clearer surrogate rights documentation. / Media critiques Legal TeamÕs handling of surrogate contracts, calling for clearer and more ethical guidelines in IVF surrogacy."
+35,3,Directed,Encourage,"Media advocates for Legal Team transparency in contract processes, encouraging ethical contract terms for surrogates."
+35,7,Directed,Encourage,"Media highlights surrogate networksÕ advocacy work, raising awareness of the collective effort to protect surrogates."
+35,8,Directed,Request,"Media requests experienced surrogates share stories of IVF challenges, adding authenticity to coverage on surrogacy."
+35,12,Directed,Allow,"Media partners with NGOs to amplify advocacy messages on surrogate rights, focusing on health and well-being."
+35,14,Directed,Request,Media requests that Human Rights Watch provide updates on global surrogacy ethics to inform public discussions.
+35,17,Directed,Encourage,"Media encourages IVF Travel to promote ethically certified clinics, raising standards for international surrogacy."
+35,18,Directed,Encourage,"Media encourages Tammuz Family to adopt inclusive language in their advertisements, promoting ethical and accessible surrogacy."
+35,19,Directed,Demand,"Media demands Egg Donor & Surrogacy Institute disclose donor health risks, increasing transparency for the public."
+35,19,Directed,Encourage,"Media promotes Egg Donor & Surrogacy Institute by covering stories about ethical egg donation, educating the public."
+35,20,Directed,Request,"Media requests Local Authorities publish data on surrogacy-related health incidents, raising awareness of clinic practices."
+35,22,Directed,Encourage,"Media encourages Family Law Code reforms to address IVF-related complexities, ensuring modern legal frameworks."
+35,22,Directed,Request,"Media reports on Family Law Code updates, providing the public with information on changes in surrogacy regulations."
+35,25,Directed,Demand,"Media demands UNCRC address ethical considerations for surrogate-born children, raising awareness on international rights."
+35,39,Directed,Discourage,"Media critiques IVF technology use, highlighting surrogate experiences and the physical demands IVF places on them."
+36,1,Directed,Allow,New York Times uses Allow affordance towards BioTexCom Clinic regarding surrogacy and related regulations.
+36,9,Directed,Request,New York Times uses Request affordance towards Conflict Resilient Surrogates regarding surrogacy and related regulations.
+36,14,Directed,Encourage,New York Times uses Encourage affordance towards Human Rights Watch regarding surrogacy and related regulations.
+36,14,Directed,Request,New York Times uses Request affordance towards Human Rights Watch regarding surrogacy and related regulations.
+36,15,Directed,Discourage,New York Times uses Discourage affordance towards Stop Surrogacy Now regarding surrogacy and related regulations.
+36,17,Directed,Request,New York Times uses Request affordance towards IVF Travel regarding surrogacy and related regulations.
+36,19,Directed,Encourage,New York Times uses Encourage affordance towards Egg Donor & Surrogacy Institute regarding surrogacy and related regulations.
+36,35,Directed,Demand,New York Times uses Demand affordance towards Media and Journals regarding surrogacy and related regulations.
+37,2,Directed,Permit,BBC News uses Permit affordance towards Medical Staff regarding surrogacy and related regulations.
+37,11,Directed,Allow,BBC News uses Allow affordance towards First Time Surrogates regarding surrogacy and related regulations.
+37,13,Directed,Discourage,BBC News uses Discourage affordance towards La Strada Ukraine regarding surrogacy and related regulations.
+37,13,Directed,Request,BBC News uses Request affordance towards La Strada Ukraine regarding surrogacy and related regulations.
+37,18,Directed,Refuse,BBC News uses Refuse affordance towards Tammuz Family regarding surrogacy and related regulations.
+37,25,Directed,Permit,BBC News uses Permit affordance towards International Legal Frameworks regarding surrogacy and related regulations.
+37,26,Directed,Request,BBC News uses Request affordance towards UNCRC regarding surrogacy and related regulations.
+37,33,Directed,Discourage,BBC News uses Discourage affordance towards Families of Surrogates regarding surrogacy and related regulations.
+38,2,Directed,Discourage,Al Jazeera uses Discourage affordance towards Medical Staff regarding surrogacy and related regulations.
+38,9,Directed,Discourage,Al Jazeera uses Discourage affordance towards Conflict Resilient Surrogates regarding surrogacy and related regulations.
+38,15,Directed,Refuse,Al Jazeera uses Refuse affordance towards Stop Surrogacy Now regarding surrogacy and related regulations.
+38,16,Directed,Encourage,Al Jazeera uses Encourage affordance towards Tourism Agencies regarding surrogacy and related regulations.
+38,18,Directed,Refuse,Al Jazeera uses Refuse affordance towards Tammuz Family regarding surrogacy and related regulations.
+38,25,Directed,Encourage,Al Jazeera uses Encourage affordance towards International Legal Frameworks regarding surrogacy and related regulations.
+38,30,Directed,Allow,Al Jazeera uses Allow affordance towards Queer Couples regarding surrogacy and related regulations.
+38,32,Directed,Discourage,Al Jazeera uses Discourage affordance towards Single Parent regarding surrogacy and related regulations.
+39,3,Directed,Request,"IVF technology requests Legal Team draft contracts that cover IVF-specific risks, safeguarding surrogate rights."
+39,5,Directed,Encourage,"IVF technology highlights its transformative potential in Marketing materials, showcasing its central role in surrogacy. / IVF technology promotes its benefits through Marketing Team materials, emphasizing scientific advances in surrogacy."
+39,7,Directed,Demand,"IVF technology demands extensive health evaluations for surrogates, ensuring safe conditions for the implantation process."
+39,7,Directed,Encourage,"IVF technology advises surrogate network on necessary health checks and physical requirements. / IVF technology guides surrogate network on health practices, aiming to minimize health risks for surrogates."
+39,8,Directed,Demand,"IVF technology requires experienced surrogates to undergo comprehensive health checks, ensuring safety in repeat procedures."
+39,8,Directed,Request,"IVF technology informs experienced surrogates of new medical practices, helping them stay updated on safety protocols."
+39,12,Directed,Allow,"IVF technology allows NGOs to observe health protocols within clinics, ensuring ethical IVF practices are upheld. / IVF technology allows NGOs to monitor health impacts on surrogates, ensuring ethical practice adherence."
+39,14,Directed,Allow,"IVF technology engages Human Rights Watch to discuss ethical considerations, responding to concerns about surrogate welfare."
+39,14,Directed,Request,"IVF technology requests Human Rights Watch review IVF procedures to identify any ethical issues, aiming to ensure ethical practices."
+39,16,Directed,Allow,"IVF technology coordinates with Tourism Agencies, ensuring IVF clinics meet the expectations of international clients."
+39,17,Directed,Allow,"IVF technology coordinates with IVF Travel to accommodate complex surrogacy schedules, ensuring procedural alignment."
+39,17,Directed,Encourage,"IVF technology supports IVF TravelÕs logistics by allowing streamlined processes, reducing travel complications. / IVF technology facilitates IVF TravelÕs scheduling, ensuring timely travel for clients based on medical needs."
+39,18,Directed,Encourage,"IVF technology facilitates the Tammuz FamilyÕs client intake process, streamlining IVF scheduling for international clients."
+39,20,Directed,Demand,"IVF technology is regulated by Local Authorities, ensuring clinics operate within local health and safety laws."
+39,22,Directed,Demand,"IVF technology demands updated Family Law Code provisions to address technological advances, safeguarding all parties involved. / IVF technology demands Family Law Code address consent complexities in IVF procedures, ensuring surrogate autonomy."
+39,26,Directed,Allow,"IVF technology allows media access to procedural details, providing transparency for journalistic coverage."
+39,27,Directed,Demand,"IVF technology complies with ECHR guidelines on ethical use, ensuring IVF practices meet international standards."
+39,33,Directed,Request,"IVF technology notifies families of surrogates about potential health impacts, ensuring family awareness of medical risks."
+39,35,Directed,Discourage,"IVF technology is critiqued by media outlets, who question the ethical and physical implications of IVF on surrogate health."
+39,35,Directed,Encourage,"IVF technology features prominently in media coverage, with outlets highlighting both its benefits and ethical concerns."
+1,2,Directed,Demand,BioTexCom Clinic demands adherence to medical protocols from Medical Staff to ensure the safety of surrogacy procedures.
+1,3,Directed,Encourage,BioTexCom Clinic encourages Legal and Compliance Team to maintain up-to-date knowledge on surrogacy laws and regulations.
+13,14,Directed,Request,La Strada Ukraine requests collaboration from Human Rights Watch to monitor human rights issues within the surrogacy industry.
+36,30,Directed,Highlight,New York Times highlights the challenges faced by Queer Couples in accessing surrogacy services internationally.
+23,24,Directed,Demand,The Civil Code demands that Local Authorities enforce surrogacy regulations to prevent exploitation.
+32,19,Directed,Request,Single Parent requests information from Egg Donor & Surrogacy Institute regarding single-parent surrogacy options.
+38,15,Directed,Encourage,Al Jazeera encourages Stop Surrogacy Now to raise awareness on ethical concerns related to commercial surrogacy.
+24,7,Directed,Permit,Local Authorities permit Surrogate Mothers to engage in surrogacy arrangements under regulated conditions.
+31,17,Directed,Encourage,Heterosexual Couples encourage IVF Travel to provide accessible surrogacy travel packages tailored to their needs.
+9,11,Directed,Support,Conflict Resilient Surrogates support First Time Surrogates by offering guidance on managing surrogacy during unstable conditions.
+37,7,Directed,Encourage,"BBC News encourages Surrogate Mothers to share personal experiences, highlighting the realities of surrogacy."
+2,7,Directed,Demand,Medical Staff demand compliance with health protocols from Surrogate Mothers to safeguard health during pregnancy.
+14,24,Directed,Request,Human Rights Watch requests Local Authorities to ensure that surrogate rights are protected under local laws.
+30,17,Directed,Request,Queer Couples request IVF Travel to provide services that address legal complexities for LGBTQ+ families in surrogacy.
+9,5,Directed,Allow,Conflict Resilient Surrogates allow Marketing and International Liaisons to promote resilient surrogacy services abroad.
+36,1,Directed,Critique,"New York Times critiques BioTexCom Clinic's commercial practices, questioning ethics in the surrogacy industry."
+13,12,Directed,Encourage,La Strada Ukraine encourages Non-Governmental Organizations to collaborate on human rights advocacy in surrogacy.
+32,3,Directed,Request,Single Parent requests legal consultation from Legal and Compliance Team on single-parent surrogacy regulations.
+17,30,Directed,Encourage,IVF Travel encourages Queer Couples to explore international surrogacy options tailored to LGBTQ+ families.
+15,26,Directed,Demand,Stop Surrogacy Now demands stricter regulations from UNCRC to prevent exploitation in international surrogacy.
+28,39,Directed,Regulate,Home Country Adoption Codes regulate IVF procedures in surrogacy to comply with national standards on family structure.
+4,7,Directed,Assist,Administrative Staff assist Surrogate Mothers with administrative paperwork and logistical arrangements during surrogacy.
+19,24,Directed,Partner,Egg Donor & Surrogacy Institute partners with Local Authorities to ensure ethical standards in surrogacy services.
+12,9,Directed,Support,Non-Governmental Organizations support Conflict Resilient Surrogates to ensure stable and ethical surrogacy options.
+31,18,Directed,Encourage,Heterosexual Couples encourage Tammuz Family to expand services for traditional family building options in surrogacy.
+9,14,Directed,Allow,Conflict Resilient Surrogates allow Human Rights Watch access to monitor ethical practices in regions affected by conflict.
+3,24,Directed,Request,Legal and Compliance Team requests clear guidelines from Local Authorities to align surrogacy practices with legal standards.
+26,25,Directed,Demand,UNCRC demands adherence from International Legal Frameworks to ensure child protection rights in surrogacy arrangements.
+7,33,Directed,Request,Surrogate Mothers request emotional support from Families of Surrogates during the surrogacy process.
+36,14,Directed,Highlight,New York Times highlights Human Rights Watch’s findings on exploitation risks in international surrogacy.
